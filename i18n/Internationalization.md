@@ -24,8 +24,7 @@ The goal is to ensure the application works correctly for users worldwide regard
   - IME (Input Method Editor) support
 
 Examples of Internationalized Input
-
-
+```text
 English      : John Smith
 French       : François Dupont
 German       : Müller
@@ -37,7 +36,7 @@ Korean       : 김민수
 Arabic       : محمد أحمد
 Russian      : Иван Иванов
 Thai         : สมชาย ใจดี
-
+```
 
 Typical Page class consideration for Internationalization Test
 - Verify WebElements accepts text as per system's locale
