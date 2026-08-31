@@ -34,3 +34,13 @@ other examples:
 ```java
 System.out.println(driver.isKeyboardShown());
 ```
+
+## // Check whether keyboard is displayed and hide it
+```java
+if (driver.isKeyboardShown()) {
+    System.out.println("Keyboard is displayed. Closing keyboard...");
+    driver.hideKeyboard();
+} else {
+    System.out.println("Keyboard is not displayed.");
+}
+```
