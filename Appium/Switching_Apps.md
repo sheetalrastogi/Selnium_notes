@@ -1,4 +1,4 @@
-##Appium switching between open apps
+## Appium switching between open apps
 
 eg. Launch App-A, switch to App-B, perform actions, and switch back to App-A
 
