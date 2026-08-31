@@ -57,8 +57,7 @@ public class BrowserMobProxyExample {
         File harFile = new File("networkTraffic.har");
         har.writeTo(harFile);
 
-        System.out.println("HAR File saved: "
-                + harFile.getAbsolutePath());
+        System.out.println("HAR File saved: " + harFile.getAbsolutePath());
 
         driver.quit();
         proxy.stop();
