@@ -109,3 +109,51 @@ devTools.addListener(Fetch.requestPaused(), req -> {
 });
 
 ```
+
+
+## Simple script to emulate Offline mode during scripting
+
+```java
+import java.util.Optional;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.devtools.DevTools;
+import org.openqa.selenium.devtools.v139.network.Network;
+
+public class OfflineModeTest {
+
+	public static void main(String[] args) {
+
+		WebDriver driver = new ChromeDriver();
+
+		try {
+
+			// Create CDP Session
+			DevTools devTools = ((ChromeDriver) driver).getDevTools();
+
+			devTools.createSession();
+
+			// Enable Network Domain
+			devTools.send(Network.enable(Optional.empty(), Optional.empty(), Optional.empty()));
+
+			// Simulate No Internet Connection
+			devTools.send(Network.emulateNetworkConditions(true, // offline
+					0, // latency
+					0, // download throughput
+					0, // upload throughput
+					Optional.empty()));
+
+			// Navigate to any website
+			driver.get("https://www.google.com");
+
+			System.out.println("Current Page Title: " + driver.getTitle());
+
+		} catch (Exception e) {
+			System.out.println("Expected Failure: " + e.getMessage());
+		} finally {
+			driver.quit();
+		}
+	}
+}
+```
