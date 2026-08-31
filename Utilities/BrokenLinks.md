@@ -80,6 +80,7 @@ public class BrokenLinkReporter {
 ```
 
 **Output**
+```text
 Total Links     : 150
 Valid Links     : 142
 Broken Links    : 6
@@ -91,6 +92,7 @@ Broken Links:
 500 : https://example.com/api/v1/report
 503 : https://example.com/contact
 ----------------------------------------------
+```
 
 **Common status code to validate**
 ----
