@@ -1,5 +1,15 @@
 Common Android Settings Intents
 
+An Intent is an Android messaging object used to request an action from another application component such as an **Activity**, **Service**, or **Broadcast Receiver**. 
+
+In mobile automation, Intents are commonly used to 
+- launch Activities directly, 
+- test deep links, 
+- trigger broadcasts, and 
+- validate inter-application communication without navigating through the application's UI flow.
+
+Some of Intents for "Android Settings" 
+
 ```text
 // General Settings
 android.settings.SETTINGS
@@ -62,15 +72,6 @@ public final class AndroidSettingsUtil {
 	}
 }
 ```
-**Usage**
-
-```java
-AndroidSettingsUtil.openSettings(driver, "android.settings.WIFI_SETTINGS");
-
-AndroidSettingsUtil.openSettings(driver,"android.settings.BLUETOOTH_SETTINGS");
-```
-
-
 
 
 **AndroidSettingsDemo usage**
@@ -112,4 +113,29 @@ public class AndroidSettingsDemo {
 	}
 }
 ```
+
+
+why useful:
+
+Appium Example: Launch Activity via Intent
+
+
+```java
+driver.executeScript("mobile: startActivity", Map.of("intent", "com.myapp/.MainActivity"));
+
+```
+This is much faster for following launch activities, as because it opens the desired Activity directly.
+
+```text
+Launch App
+↓
+Splash Screen
+↓
+Home Screen
+↓
+Menu
+↓
+Target Screen
+```
+
 
