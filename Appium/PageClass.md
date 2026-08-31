@@ -3,7 +3,7 @@
 This pattern keeps locators inside the Page Class, supports both Android and iOS, and exposes only business actions such as enterUsername() and getUsernameText() to test classes.
 
 
-# Step 1. Generic class to detect driver type
+## Step 1. Generic class to detect driver type
 
 ```java
 public class PlatformLocator {
@@ -30,7 +30,7 @@ public class PlatformLocator {
 }
 ```
 
-# Step 2. Page Class
+## Step 2. Page Class
 
 ```java
 import org.openqa.selenium.WebElement;
