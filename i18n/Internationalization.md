@@ -45,7 +45,7 @@ Typical Page class consideration for Internationalization Test
 
 ## Approach
 
-Below is an enterprise-grade Selenium 4 Java Page Object Model design for Internationalization (i18n) testing using Resource Bundles. This approach keeps locale-specific test data outside the test code and automatically loads values based on the system locale.
+Below is an enterprise-grade Selenium 4 Java Page Object Model design for Internationalization (i18n) testing using **Resource Bundles**. This approach keeps locale-specific test data outside the test code and automatically loads values based on the system locale.
 
 
 Project structure:
