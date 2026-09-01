@@ -5,9 +5,9 @@
 Appium will load:
 - Host            : 127.0.0.1
 - Port            : 4723
-- Log File        : C:\Logs\appium.log
-- Temp Directory  : C:\AppiumTemp
-- Driver          : UiAutomator2
+- Log File        : /tmp/appium.log
+- Temp Directory  : /tmp
+- Driver          : xcuitest/ UiAutomator2
 
 Sample Appium Server Config file.
 Source:  https://github.com/appium/appium/blob/master/packages/appium/sample-code/appium.config.sample.json
