@@ -6,7 +6,6 @@ Capturing logs is essential for troubleshooting test failures, application crash
 - Device Logs (Logcat) (Android device/emulator)
 - Client/Test Execution Logs (Selenium/Appium framework logs)
 
-
 ## 1a. Appium Server Logging
 
 Appium server logs capture:
@@ -20,8 +19,9 @@ Appium server logs capture:
 How to capture Appium server logs:
 
 **Option 1**: Start Appium Server with Log Redirection
+```text
 appium --log C:\Logs\appium.log
-
+```
 **Option 2**:Start Appium Server Programmatically
 
 ```java
@@ -36,29 +36,17 @@ public class AppiumServerManager {
 
 		AppiumDriverLocalService service = new AppiumServiceBuilder().withLogFile(new File("target/appium.log"))
 				.build();
-
 		service.start();
-
 		System.out.println("Appium Server Started");
-
 		// Execute Tests
-
 		service.stop();
 	}
 }
 ```
 
-Appium client (UIAutomator/XCuiTest) logs:
-- Application Logs
-- Crash Information
-- ANR Events
-- Runtime Exceptions
-
-
-## 1b. Device Logging Using Android Logcat
+## 1b. Appium Client Drivers / Device Logs with Logcat
 
 Android Logcat captures:
-
 - Application crashes
 - ANR (Application Not Responding)
 - Security exceptions
@@ -76,16 +64,7 @@ System.out.println(logs);
 
 ```
 
-**Option 2**: Write Logcat to File
-
-```java
-String logcat = driver.executeScript("mobile: shell", java.util.Map.of("command", "logcat", "args", java.util.List.of("-d")))
-				.toString();
-
-Files.writeString(Path.of("target/logcat.txt"), logcat);
-```
-
-**Option 3**: Capture Device Logs Using Selenium Logs API
+**Option 2**: Capture Device Logs Using Selenium Logs API
 
 - Print Device Logs to Console
 
@@ -95,14 +74,12 @@ LogEntries entries = driver.manage().logs().get("logcat");
 for (LogEntry entry : entries) {
 	System.out.println(entry.getTimestamp() + " : " + entry.getMessage());
 }
-
 ```
 
 
 ## 1c. Client-Side Logging (Automation Framework Logs)
 
 Client logs capture:
-
 - Test execution steps
 - Locator actions
 - Verification details
@@ -116,42 +93,36 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class LoginTest {
-
 	private static final Logger logger = LogManager.getLogger(LoginTest.class);
-
 	public static void main(String[] args) {
-
 		logger.info("Launching application");
-
 		logger.info("Entering username");
-
 		logger.info("Clicking Login button");
-
 		logger.info("Login successful");
 	}
 }
 ```
 
-Recommended Logging Strategy
-Appium Server Log
+- **Recommended Logging Strategy**
+- Appium Server Log
 	- Session Creation
 	- Capabilities
 	- Driver Commands
 	- Server Errors
 
-Android Device Log
+- Android Device Log
 	- Application Logs
 	- Crash Information
 	- ANR Events
 	- Runtime Exceptions
 
-Test Framework Log
+- Test Framework Log
 	- Test Steps
 	- Assertions
 	- Business Actions
 	- Framework Events
 
-Recommended Log Folder Structure
+**Recommended Log Folder Structure**
 
 ```text
 target/
