@@ -1,3 +1,14 @@
+## Start Appium Server Using Config File
+
+**appium --config appium-config.json**
+
+Appium will load:
+- Host            : 127.0.0.1
+- Port            : 4723
+- Log File        : C:\Logs\appium.log
+- Temp Directory  : C:\AppiumTemp
+- Driver          : UiAutomator2
+
 Sample Appium Server Config file.
 Source:  https://github.com/appium/appium/blob/master/packages/appium/sample-code/appium.config.sample.json
 
