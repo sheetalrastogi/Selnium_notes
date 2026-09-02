@@ -26,86 +26,136 @@ import org.apache.commons.net.ftp.FTP;
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPFile;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.time.Duration;
+import java.util.Objects;
 
-public class FtpHelper implements AutoCloseable {
+public final class FtpHelper implements AutoCloseable {
+	private final FTPClient client;
+	private FtpHelper(FTPClient client) {
+		this.client = client;
+	}
 
-	private final FTPClient ftpClient;
-
-	public FtpHelper(String host, int port, String username, String password) throws IOException {
-		ftpClient = new FTPClient();
-
-		ftpClient.connect(host, port);
-
-		if (!ftpClient.login(username, password)) {
-			throw new RuntimeException("FTP login failed");
+	// Factory Method
+	public static FtpHelper connect(String host, int port, String username, String password) throws IOException {
+		Objects.requireNonNull(host, "Host cannot be null");
+		FTPClient ftpClient = new FTPClient();
+		try {
+			ftpClient.connect(host, port);
+			if (!ftpClient.login(username, password)) {
+				throw new IOException("FTP authentication failed");
+			}
+			ftpClient.enterLocalPassiveMode();
+			ftpClient.setFileType(FTP.BINARY_FILE_TYPE);
+			return new FtpHelper(ftpClient);
+		} catch (Exception e) {
+			disconnectQuietly(ftpClient);
+			throw e;
 		}
-
-		ftpClient.enterLocalPassiveMode();
-		ftpClient.setFileType(FTP.BINARY_FILE_TYPE);
 	}
 
 	public void upload(Path localFile, String remoteFile) throws IOException {
-		try (FileInputStream fis = new FileInputStream(localFile.toFile())) {
-			if (!ftpClient.storeFile(remoteFile, fis)) {
-				throw new RuntimeException("Upload failed: " + remoteFile);
+		validateLocalFile(localFile);
+		try (InputStream input = Files.newInputStream(localFile)) {
+			if (!client.storeFile(remoteFile, input)) {
+				throw buildFtpException("Upload failed for remote file: " + remoteFile);
 			}
 		}
 	}
 
 	public void download(String remoteFile, Path localFile) throws IOException {
-		try (FileOutputStream fos = new FileOutputStream(localFile.toFile())) {
-			if (!ftpClient.retrieveFile(remoteFile, fos)) {
-				throw new RuntimeException("Download failed: " + remoteFile);
+		Files.createDirectories(localFile.getParent());
+		try (OutputStream output = Files.newOutputStream(localFile)) {
+			if (!client.retrieveFile(remoteFile, output)) {
+				throw buildFtpException("Download failed for remote file: " + remoteFile);
 			}
 		}
 	}
 
-	public boolean exists(String remoteFile) throws IOException {
-		FTPFile[] files = ftpClient.listFiles(remoteFile);
+	public boolean fileExists(String remoteFile) throws IOException {
+		FTPFile[] files = client.listFiles(remoteFile);
 		return files != null && files.length > 0;
 	}
 
-	public void delete(String remoteFile) throws IOException {
-		ftpClient.deleteFile(remoteFile);
+	public void deleteFile(String remoteFile) throws IOException {
+		if (!client.deleteFile(remoteFile)) {
+			throw buildFtpException("Unable to delete remote file: " + remoteFile);
+		}
 	}
 
-	public void cleanupDirectory(String remoteDirectory) throws IOException {
-		FTPFile[] files = ftpClient.listFiles(remoteDirectory);
+	public void cleanDirectory(String remoteDirectory) throws IOException {
+		FTPFile[] files = client.listFiles(remoteDirectory);
+		if (files == null) {
+			return;
+		}
 
 		for (FTPFile file : files) {
 			if (file.isFile()) {
-				ftpClient.deleteFile(remoteDirectory + "/" + file.getName());
+				String remotePath = remoteDirectory + "/" + file.getName();
+				deleteFile(remotePath);
 			}
 		}
 	}
 
-	public boolean waitForFile(String remoteFile, Duration timeout, Duration pollingInterval) throws Exception {
+	public boolean waitForFile(String remoteFile, Duration timeout, Duration pollingInterval)
+			throws InterruptedException, IOException {
 
 		long endTime = System.currentTimeMillis() + timeout.toMillis();
 
 		while (System.currentTimeMillis() < endTime) {
-
-			if (exists(remoteFile)) {
+			if (fileExists(remoteFile)) {
 				return true;
 			}
-
 			Thread.sleep(pollingInterval.toMillis());
 		}
-
 		return false;
+	}
+
+	public long getFileSize(String remoteFile) throws IOException {
+		FTPFile[] files = client.listFiles(remoteFile);
+		if (files == null || files.length == 0) {
+			throw new IOException("Remote file not found: " + remoteFile);
+		}
+		return files[0].getSize();
+	}
+
+	public boolean isConnected() {
+		return client.isConnected();
 	}
 
 	@Override
 	public void close() throws IOException {
+		try {
+			if (client.isConnected()) {
+				client.logout();
+			}
+		} finally {
+			disconnectQuietly(client);
+		}
+	}
 
-		if (ftpClient.isConnected()) {
-			ftpClient.logout();
-			ftpClient.disconnect();
+	private IOException buildFtpException(String message) {
+		return new IOException(
+				message + " | ReplyCode=" + client.getReplyCode() + " | ReplyMessage=" + client.getReplyString());
+	}
+
+	private static void validateLocalFile(Path file) {
+		Objects.requireNonNull(file, "File path cannot be null");
+		if (!Files.exists(file)) {
+			throw new IllegalArgumentException("File does not exist: " + file);
+		}
+	}
+
+	private static void disconnectQuietly(FTPClient client) {
+		try {
+			if (client != null && client.isConnected()) {
+				client.disconnect();
+			}
+		} catch (Exception ignored) {
 		}
 	}
 }
