@@ -411,3 +411,101 @@ Scenario
 - Clean separation of concerns
 - Supports Selenium, API, DB, Kafka, FTP, Appium dependencies through the same context
 
+
+## Optional: DependencyContainer (Enterprise Style)
+
+If you have many dependencies eg:
+
+- WebDriver
+- API Client
+- Database Helper
+- Kafka Client
+- FTP Helper
+- Config Manager
+- Soft Assertions
+- Extent Report Manager
+
+then a dedicated container becomes useful example:
+
+```java
+package di;
+
+import driver.DriverManager;
+import utils.ConfigReader;
+import utils.WaitHelper;
+
+public class DependencyContainer {
+
+    private final DriverManager driverManager;
+    private final ConfigReader configReader;
+    private final WaitHelper waitHelper;
+    private final ScenarioContext scenarioContext;
+
+    public DependencyContainer() {
+
+        driverManager = new DriverManager();
+        configReader = new ConfigReader();
+        waitHelper = new WaitHelper(driverManager.getDriver());
+
+        scenarioContext = new ScenarioContext();
+    }
+
+    public DriverManager getDriverManager() {
+        return driverManager;
+    }
+
+    public ConfigReader getConfigReader() {
+        return configReader;
+    }
+
+    public WaitHelper getWaitHelper() {
+        return waitHelper;
+    }
+
+    public ScenarioContext getScenarioContext() {
+        return scenarioContext;
+    }
+}
+```
+
+
+**LoginPage using DependencyContainer**
+
+```java
+public class LoginPage {
+
+    private final DependencyContainer container;
+
+    public LoginPage(DependencyContainer container) {
+        this.container = container;
+    }
+
+    public void open() {
+        container.getDriverManager()
+                 .getDriver()
+                 .get(container.getConfigReader().getBaseUrl());
+    }
+}
+```
+
+**Step Definition**
+
+```java
+public class LoginSteps {
+
+    private final DependencyContainer container;
+    private final LoginPage loginPage;
+
+    public LoginSteps(DependencyContainer container, LoginPage loginPage) {
+        this.container = container;
+        this.loginPage = loginPage;
+    }
+
+    @Given("user launches application")
+    public void launchApplication() {
+        loginPage.open();
+    }
+}
+```
+
+
