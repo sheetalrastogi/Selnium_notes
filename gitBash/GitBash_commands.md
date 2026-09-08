@@ -1,3 +1,9 @@
+## Git Tags
+
+Git Tags are named references that point to a specific commit in a Git repository. They are commonly used to mark important milestones such as releases, versions, hotfixes, or production deployments.
+
+Unlike branches, tags are typically static and do not move automatically when new commits are added.
+
 | Category | Action | Command |
 |----------|----------|----------|
 | Create & View Tags | View commit history (short format) | `git log --oneline` |
