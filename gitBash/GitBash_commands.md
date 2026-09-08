@@ -20,6 +20,7 @@ Unlike branches, tags are typically static and do not move automatically when ne
 
 ## Git Branch
 
+A Git Branch is an independent line of development within a Git repository. It allows developers to work on new features, bug fixes, experiments, or releases without affecting the main codebase.
 
 | Category | Action | Command |
 |----------|----------|----------|
