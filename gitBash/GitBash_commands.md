@@ -22,32 +22,6 @@ Unlike branches, tags are typically static and do not move automatically when ne
 
 A Git Branch is an independent line of development within a Git repository. It allows developers to work on new features, bug fixes, experiments, or releases without affecting the main codebase.
 
-| Category | Action | Command |
-|----------|----------|----------|
-| View Branches | View local branches | `git branch` |
-| View Branches | View local and remote branches | `git branch -a` |
-| Create Branches | Create a new branch | `git branch <branch_name>` |
-| Create Branches | Create branch `prod` | `git branch prod` |
-| Push Local Branch to Remote | Push local branch to remote repository | `git push -u origin <branch_name>` |
-| Push Local Branch to Remote | Push branch `prod` to remote | `git push -u origin prod` |
-| Switch (Checkout) Branches | Switch to an existing branch | `git checkout <branch_name>` |
-| Switch (Checkout) Branches | Switch to branch `prod` | `git checkout prod` |
-| Create and Switch Branch | Create and switch to a new branch | `git checkout -b <branch_name>` |
-| Create and Switch Branch | Create and switch to `feature-login` | `git checkout -b feature-login` |
-| Delete Branches | Delete a local branch | `git branch -d <branch_name>` |
-| Delete Branches | Delete local branch `prod` | `git branch -d prod` |
-| Delete Branches | Force delete a local branch | `git branch -D <branch_name>` |
-| Delete Branches | Force delete local branch `prod` | `git branch -D prod` |
-| Delete Remote Branch | Delete a remote branch | `git push <remote_repo_name> --delete <branch_name>` |
-| Delete Remote Branch | Delete remote branch `prod` | `git push origin --delete prod` |
-| Merge Branches | Merge a branch into the current branch | `git merge <branch_name>` |
-| Merge Branches | Merge branch `dev` into current branch | `git merge dev` |
-| Rename Branch | Rename a branch | `git branch -m <old_name> <new_name>` |
-| Rename Branch | Rename `prod` to `production` | `git branch -m prod production` |
-| Recover Deleted Branch | View reflog history to recover deleted branch | `git reflog` |
-
-### Branch Commands Cheat Sheet
-
 | Command | Purpose |
 |----------|----------|
 | `git branch` | View local branches |
