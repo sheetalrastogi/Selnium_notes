@@ -1,3 +1,100 @@
+**Verify SSH Authentication with GitHub**
+
+- Tests SSH connectivity and authentication with GitHub.
+	ssh -T git@github.com
+
+- Clone a Repository Using SSH
+	git clone git@github.com:<owner>/<repository>.git
+	eg. git clone git@github.com:sheetalrastogi/Selnium_notes.git
+
+**Connect Local Repository to Remote Repository**
+
+```text
+# Add remote repository
+	git remote add origin <repository_url>
+
+# Example
+	git remote add origin https://github.com/user/repo.git
+	
+	
+# View configured remotes
+	git remote -v
+
+# View remote names
+	git remote
+```
+
+**Clone Remote Repository**
+
+```text
+# Clone using HTTPS
+	git clone <repository_url>
+
+# Clone using SSH
+	git clone git@github.com:<owner>/<repository>.git
+```
+
+
+**Push Changes to Remote Repository**
+
+```text
+# Push current branch
+	git push
+
+# Push specific branch
+	git push origin <branch_name>
+
+# Push and set upstream tracking
+	git push -u origin <branch_name>
+
+# Push all branches
+	git push --all
+
+# Force push
+	git push --force
+
+# Dry run
+	git push --dry-run
+
+# Atomic push
+	git push --atomic origin <branch_name>
+
+# Prune deleted references
+	git push --prune
+```
+
+
+**Fetch Changes from Remote Repository**
+
+```text
+# Fetch all remote changes
+	git fetch
+
+# Fetch specific remote
+	git fetch origin
+```
+
+**Merge Fetched Changes**
+
+```text
+# Merge Fetched changes
+	git merge <branch_name>
+
+	Example:  git merge origin/master
+
+```
+
+
+**Pull Changes**
+
+```text
+# Fetch + Merge
+	git pull
+
+	Example:  git pull origin master
+```
+
+
 ## Git Tags
 
 Git Tags are named references that point to a specific commit in a Git repository. They are commonly used to mark important milestones such as releases, versions, hotfixes, or production deployments.
