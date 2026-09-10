@@ -5,13 +5,11 @@ Using following DOB, TOB, Name and gender create an Executive summary in a Tabul
 
 Suggest "Personality", "Strengths", "Weakness", "Life Direction", "Areas to improve" and "Daily routines to enhance growth areas."  
 
-
-```text
 DOB:  DD-MM-YYYY 
 TOB:  HH:MM
 Name: XXXXXX YYYY
 Gender: Male/Female
-​```
+​
 
 | Numerology Number | Derived From | Represents |
 |------------------|-------------|------------|
