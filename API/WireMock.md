@@ -32,7 +32,7 @@ Instead of calling the real service, WireMock will return a mocked response.
 
 ## Example 1: Mock GET API
 
-** Step 1:  Start WireMock Server**
+**Step 1:  Start WireMock Server**
 
 ```java
 import com.github.tomakehurst.wiremock.WireMockServer;
@@ -51,7 +51,7 @@ public class WireMockSetup {
 }
 ```
 
-** Step 2: Create Stub**
+**Step 2: Create Stub**
 
 ```java
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
@@ -66,7 +66,7 @@ wireMockServer.stubFor(get(urlEqualTo("/api/customers/100")).willReturn(aRespons
 ```
 
 
-** Step 3: Validate Using RestAssured**
+**Step 3: Validate Using RestAssured**
 
 ```java
 import io.restassured.RestAssured;
