@@ -26,7 +26,7 @@ driver.switchTo().context("NATIVE_APP");
 
 ## Setting APIs
 
-The Settings API in Appium allows you to dynamically modify Appium server behavior during test execution without restarting the session
+Settings API in Appium allows you to dynamically modify session-specific Appium driver behavior at runtime, similar to capabilities, but unlike capabilities these settings can be updated multiple times after the session has already started.
 
 ## Commonly Used Settings
 | Setting | Purpose | Common Usage |
