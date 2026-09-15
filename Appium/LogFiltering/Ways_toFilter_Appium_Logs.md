@@ -98,7 +98,7 @@ Process process = builder.start();
 Log Filtering in Appium helps you isolate meaningful information from Appium server logs, Android Logcat logs, iOS syslogs, and driver logs. In enterprise mobile automation frameworks, it is commonly used for:
 
 - Automatic crash detection
-- ANR monitoring
+- ANR monitoring  (Application Not Responding)
 - Security exception tracking
 - Performance troubleshooting
 - CI/CD failure diagnostics
