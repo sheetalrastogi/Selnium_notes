@@ -1,3 +1,5 @@
+Source:    https://arxiv.org/pdf/2402.15928
+
 # Scenario Reuse Approaches in Selenium + Cucumber + Java
 
 For a **Selenium + Cucumber + Java** framework, there are multiple ways to implement scenario reuse. Some are recommended, while others should be used cautiously.
