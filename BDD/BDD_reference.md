@@ -1,6 +1,28 @@
 ### A. Website: 
 https://www.tutorialspoint.com/behavior_driven_development/index.htm
 
+### A1. WebSite:
+https://www.geeksforgeeks.org/software-engineering/behavioral-driven-development-bdd-in-software-engineering/
+
+### A2. WebSite:
+https://zetcode.com/terms-testing/bdd/
+
+### A3. WebSite:
+https://semaphoreci.com/blog
+
+### A4. WebSite:
+https://school.cucumber.io
+
+### A5. WebSite:
+https://www.softwaretestinghelp.com/bdd-framework/
+
+### A6. WebSite:
+https://dannorth.net
+
+### A7. WebSite:
+https://martinfowler.com
+
+---
 
 ### B. Cucumber Automation Framework Tutorial
 
