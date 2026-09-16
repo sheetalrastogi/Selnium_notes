@@ -1,27 +1,41 @@
-### A. Website: 
-https://www.tutorialspoint.com/behavior_driven_development/index.htm
+# BDD Learning Resources and Topics Covered
 
-### A1. WebSite:
-https://www.geeksforgeeks.org/software-engineering/behavioral-driven-development-bdd-in-software-engineering/
+| # | Website | URL | Main BDD Topics Covered |
+|---|---------|-----|-------------------------|
+| 1 | Behavior-Driven Development - Cucumber | https://cucumber.io/docs/bdd/ | What is BDD, Discovery, Formulation, Automation, Living Documentation, Agile + BDD, Executable Specifications |
+| 2 | Behavior Driven Development Tutorial - TutorialsPoint | https://www.tutorialspoint.com/behavior_driven_development/index.htm | BDD Introduction, BDD vs TDD, Specification by Example, Cucumber, Gherkin, SpecFlow, BDD Tools |
+| 3 | Behavior-Driven Development (BDD) Tutorial - ZetCode | https://zetcode.com/terms-testing/bdd/ | Core Principles, Ubiquitous Language, Collaboration, Executable Specifications, Outside-In Development, Gherkin |
+| 4 | BDD (Behavior Driven Development) Framework: A Complete Tutorial - SoftwareTestingHelp | https://www.softwaretestinghelp.com/bdd-framework/ | BDD Framework, Cucumber, Given-When-Then, Feature Files, Step Definitions, BDD vs TDD, Automation Examples |
+| 5 | What is Behavior-Driven Development (BDD)? - GeeksforGeeks | https://www.geeksforgeeks.org/software-engineering/behavioral-driven-development-bdd-in-software-engineering/ | Discovery Phase, Formulation Phase, Automation Phase, Collaboration, Gherkin Examples, Acceptance Criteria |
+| 6 | Dan North | https://dannorth.net | Original BDD Concepts, Introducing BDD, Outside-In Development, Specification by Example |
+| 7 | Cucumber School | https://school.cucumber.io | Example Mapping, Three Amigos, Writing Better Scenarios, Living Documentation |
+| 8 | Martin Fowler | https://martinfowler.com | Acceptance Testing, BDD Concepts, Specification by Example, Agile Analysis |
+| 9 | ToolsQA Selenium Cucumber Framework | https://www.toolsqa.com/selenium-cucumber-framework/ | Selenium + Cucumber Framework, POM, Page Factory, Dependency Injection, Reporting |
+| 10 | Semaphore CI Blog | https://semaphoreci.com/blog | BDD in CI/CD, Test Automation, Continuous Testing, Best Practices |
 
-### A2. WebSite:
-https://zetcode.com/terms-testing/bdd/
+## Key BDD Topics Across All Resources
 
-### A3. WebSite:
-https://semaphoreci.com/blog
-
-### A4. WebSite:
-https://school.cucumber.io
-
-### A5. WebSite:
-https://www.softwaretestinghelp.com/bdd-framework/
-
-### A6. WebSite:
-https://dannorth.net
-
-### A7. WebSite:
-https://martinfowler.com
-
+- Introduction to BDD
+- BDD vs TDD
+- Specification by Example
+- Discovery Workshops
+- Three Amigos Collaboration
+- Example Mapping
+- Ubiquitous Language
+- Gherkin Syntax
+- Given-When-Then Format
+- Feature Files
+- Step Definitions
+- Acceptance Criteria
+- Living Documentation
+- Outside-In Development
+- Executable Specifications
+- Selenium + Cucumber Framework Design
+- Page Object Model (POM)
+- Dependency Injection
+- Reporting and Test Automation
+- BDD in CI/CD Pipelines
+- Continuous Testing Best Practices
 ---
 
 ### B. Cucumber Automation Framework Tutorial
