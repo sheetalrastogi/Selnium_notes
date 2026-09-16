@@ -162,3 +162,13 @@ service.addItem("P1001");
 - Supports SOLID Principles
 - Reduces Object Creation Responsibility
 
+
+
+## Common dependency injection modules:
+- PicoContainer (the recommended one if your application doesn't use another DI module)
+- Spring
+- Guice
+- OpenEJB
+- Weld
+- Needle
+- Quarkus
