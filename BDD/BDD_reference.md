@@ -1,63 +1,67 @@
-### Cucumber Automation Framework Tutorial
+### A. Website: 
+https://www.tutorialspoint.com/behavior_driven_development/index.htm
 
-## 1. Cucumber Automation Framework
+
+### B. Cucumber Automation Framework Tutorial
+
+## B.1 Cucumber Automation Framework
 https://www.toolsqa.com/selenium-cucumber-framework/cucumber-automation-framework/
 
-## 2. End to End Selenium Test
+## B.2. End to End Selenium Test
 https://www.toolsqa.com/selenium-cucumber-framework/selenium-end-to-end-automation-test/
 
-## 3. Convert Selenium Test to Cucumber BDD Style
+## B.3. Convert Selenium Test to Cucumber BDD Style
 https://www.toolsqa.com/selenium-cucumber-framework/convert-selenium-test-to-cucumber/
 
-## 4. Gherkin Keywords
+## B.4. Gherkin Keywords
 https://www.toolsqa.com/cucumber/gherkin-keywords/
 
-## 5. Feature Files
+## B.5. Feature Files
 https://www.toolsqa.com/cucumber/cucumber-jvm-feature-file/
 
-## 6. Step Definitions
+## B.6. Step Definitions
 https://www.toolsqa.com/cucumber/step-definition/
 
-## 7. Test Runner
+## B.7. Test Runner
 https://www.toolsqa.com/cucumber/junit-test-runner-class/
 
-## 8. Page Object Model using Page Factory
+## B.8. Page Object Model using Page Factory
 https://www.toolsqa.com/selenium-cucumber-framework/page-object-design-pattern-with-selenium-pagefactory-in-cucumber/
 
-## 9. Page Object Manager
+## B.9. Page Object Manager
 https://www.toolsqa.com/selenium-cucumber-framework/page-object-manager/
 
-## 10. Config File Reader
+## B.10. Config File Reader
 https://www.toolsqa.com/selenium-cucumber-framework/read-configurations-from-property-file/
 
-## 11. File Reader Manager
+## B.11. File Reader Manager
 https://www.toolsqa.com/selenium-cucumber-framework/file-reader-manager-singleton-design-pattern/
 
-## 12. WebDriver Manager
+## B.12. WebDriver Manager
 https://www.toolsqa.com/selenium-cucumber-framework/design-webdriver-manager/
 
-## 13. Sharing Test Context with PicoContainer
+## B.13. Sharing Test Context with PicoContainer
 https://www.toolsqa.com/selenium-cucumber-framework/sharing-test-context-between-cucumber-step-definitions/
 
-## 14. Hooks (@Before/@After)
+## B.14. Hooks (@Before/@After)
 https://www.toolsqa.com/selenium-cucumber-framework/how-to-use-hooks-in-selenium-cucumber-framework/
 
-## 15. Data Driven Testing using JSON
+## B.15. Data Driven Testing using JSON
 https://www.toolsqa.com/selenium-cucumber-framework/data-driven-testing-using-json-with-cucumber/
 
-## 16. Wait Utility for Ajax Wait
+## B.16. Wait Utility for Ajax Wait
 https://www.toolsqa.com/selenium-cucumber-framework/handle-ajax-call-using-javascriptexecutor-in-selenium/
 
-## 17. Sharing Scenario Context
+## B.17. Sharing Scenario Context
 https://www.toolsqa.com/selenium-cucumber-framework/share-data-between-steps-in-cucumber-using-scenario-context/
 
-## 18. Cucumber Reports
+## B.18. Cucumber Reports
 https://www.toolsqa.com/selenium-cucumber-framework/cucumber-reports/
 
-## 19. Extent Reports with Cucumber
+## B.19. Extent Reports with Cucumber
 https://www.toolsqa.com/selenium-cucumber-framework/cucumber-extent-report/
 
-## 20. Run Cucumber Tests from Command Line
+## B.20. Run Cucumber Tests from Command Line
 https://www.toolsqa.com/selenium-cucumber-framework/run-cucumber-test-from-command-line-terminal/
 
 
