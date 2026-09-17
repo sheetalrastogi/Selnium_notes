@@ -158,6 +158,101 @@ In standard Gherkin, an Examples section is always scoped to a single Scenario O
 
 ---
 
+### 4. Background in Gherkin
+
+Background is used to define common preconditions that should be executed before every Scenario or Scenario Outline within a Feature (or Rule).
+
+It helps eliminate duplicate steps and keeps scenarios focused on the business behavior being tested.
+
+**Without Background**  (Notice the repeated Given steps.)
+
+```text
+Feature: User Login
+
+Scenario: Valid Login
+  Given User is on the login page
+  And User database connection is available
+  And User is not logged in
+  When User enters valid credentials
+  Then Login should be successful
+
+Scenario: Invalid Login
+  Given User is on the login page
+  And User database connection is available
+  And User is not logged in
+  When User enters invalid credentials
+  Then Login should fail
+```
+
+**With Background**
+
+```text
+Feature: User Login
+
+Background:
+  Given User is on the login page
+  And User database connection is available
+  And User is not logged in
+
+Scenario: Valid Login
+  When User enters valid credentials
+  Then Login should be successful
+
+Scenario: Invalid Login
+  When User enters invalid credentials
+  Then Login should fail
+```
+
+**Background with Scenario Outline**
+
+```text
+Feature: Customer Search
+
+Background:
+  Given User is logged into the application
+  And User is on the customer search page
+
+Scenario Outline: Search customer by ID
+  When User searches customer "<customerId>"
+  Then Status code should be <statusCode>
+
+Examples:
+  | customerId | statusCode |
+  | C1001      | 200        |
+  | C9999      | 404        |
+```
+
+Execution
+
+```text
+1. Execute Background
+2. Execute Scenario Outline with row 1
+
+3. Execute Background
+4. Execute Scenario Outline with row 2
+```
+
+**Background Inside a Rule**
+
+```text
+Feature: Banking System
+
+Rule: Authenticated User Operations
+
+  Background:
+    Given User is logged in
+
+  Scenario: View Balance
+    When User views account balance
+    Then Balance should be displayed
+
+  Scenario: Transfer Money
+    When User transfers funds
+    Then Transfer should be successful
+```
+
+---
+
 
 
 
