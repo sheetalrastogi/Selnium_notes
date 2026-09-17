@@ -281,7 +281,7 @@ Output:
 
 
 ### Quick Reference
-
+```text
 List<String>                  -> dataTable.asList()
 List<List<String>>            -> dataTable.asLists()
 Map<String, String>           -> dataTable.asMap()
@@ -290,5 +290,5 @@ Set<String>                   -> new HashSet<>(dataTable.asList())
 List<POJO>                    -> dataTable.asList(MyPojo.class)
 Custom Object Mapping         -> @DataTableType
 Nested Structure              -> Manual conversion from asLists() or asMaps()
-
+```
 ---
