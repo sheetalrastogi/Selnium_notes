@@ -153,6 +153,9 @@ Feature: User Login
 
 **Rule of Thumb**: Use Scenario when the test data is fixed. Use Scenario Outline when the same workflow must run with multiple sets of input data.
 
+In standard Gherkin, an Examples section is always scoped to a single Scenario Outline; it cannot be shared among multiple scenarios.
+
+
 ---
 
 
