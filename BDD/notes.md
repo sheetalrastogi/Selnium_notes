@@ -132,5 +132,29 @@ Feature
 ```
 ---
 
+### 3. Scenario Outline in BDD Gherkin
+
+```text
+Feature: User Login
+
+  Scenario Outline: Validate login with different credentials
+    Given User is on the login page
+    When User enters username "<username>" and password "<password>"
+    And User clicks the Login button
+    Then Login result should be "<result>"
+
+    Examples:
+      | username | password | result          |
+      | admin    | admin123 | Login Success   |
+      | admin    | wrong123 | Login Failed    |
+      | testuser | test123  | Login Success   |
+      | invalid  | invalid  | Login Failed    |
+```
+
+**Rule of Thumb**: Use Scenario when the test data is fixed. Use Scenario Outline when the same workflow must run with multiple sets of input data.
+
+---
+
+
 
 
