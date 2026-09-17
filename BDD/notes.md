@@ -30,6 +30,107 @@
 
 ---
 
+### 2. Rule Keyword in Gherkin
+
+The Rule keyword was introduced in Gherkin 6 to represent a single business rule that the feature must satisfy.
+
+It helps organize large feature files by grouping related scenarios under a specific business rule.
+
+**You do not implement Rule in Step Definitions.**
+
+Rule is a **documentation and organization construct** in Gherkin. Cucumber does **not** create a separate Java annotation such as @Rule for step definitions.
+
+
+**Without Rule**
+
+```text
+Feature: User Login
+
+Scenario: Login with valid credentials
+  Given User enters valid username and password
+  When User clicks Login
+  Then Dashboard is displayed
+
+Scenario: Login with invalid password
+  Given User enters valid username and invalid password
+  When User clicks Login
+  Then Error message is displayed
+
+Scenario: Account should lock after 3 failed attempts
+  Given User enters invalid password 3 times
+  When User clicks Login
+  Then Account should be locked
+```
+
+**With Rule**
+
+```text
+Feature: User Login
+
+Rule: Registered users can access the application
+
+  Scenario: Login with valid credentials
+    Given User enters valid username and password
+    When User clicks Login
+    Then Dashboard is displayed
+
+  Scenario: Login with invalid password
+    Given User enters valid username and invalid password
+    When User clicks Login
+    Then Error message is displayed
+
+Rule: Account must be protected against brute-force attacks
+
+  Scenario: Account should lock after 3 failed attempts
+    Given User enters invalid password 3 times
+    When User clicks Login
+    Then Account should be locked
+
+  Scenario: Locked account cannot login
+    Given User account is locked
+    When User enters correct credentials
+    Then Login should be denied
+```
+
+**Rule with Background**
+
+```text
+A Background can be defined inside a Rule.
+
+Feature: Money Transfer
+
+Rule: Transfer between active accounts
+
+  Background:
+    Given Source account is active
+    And Destination account is active
+
+  Scenario: Transfer valid amount
+    When User transfers 100 dollars
+    Then Transfer should succeed
+
+  Scenario: Transfer exceeding balance
+    When User transfers 10000 dollars
+    Then Transfer should fail
+```
+
+
+**Hierarchy of a Feature File**
+
+```text
+Feature
+ ├─ Rule
+ │   ├─ Background (optional)
+ │   ├─ Scenario
+ │   └─ Scenario
+ │
+ ├─ Rule
+ │   ├─ Scenario
+ │   └─ Scenario
+ │
+ └─ Scenario
+```
+---
 
 
 
