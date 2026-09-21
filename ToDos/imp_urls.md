@@ -1,5 +1,6 @@
-## Git tutorial
+**Git tutorial**
 https://toolsqa.com/git/git-tutorial/
+---
 
 https://www.geeksforgeeks.org/spring-boot-starter-test/
 - [Selenium 4 APIs for Chrome DevTools Protocol | Applitools](https://applitools.com/blog/selenium-4-chrome-devtools/#:~:text=Selenium%204%20has%20added%20native%20support%20for%20Chrome,mode%20and%20exercise%20the%20responsiveness%20of%20the%20application)
