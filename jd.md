@@ -1,4 +1,5 @@
-- Driving innovative test engineering solutions through the adoption of **GenAI**, **LLMs**, **Agentic AI** , **RAG**, Microsoft Copilot, and Intelligent Automation, leveraging Copilot Certified expertise and Claude Architecture capabilities to improve productivity, optimize quality outcomes, accelerate delivery, and deliver exceptional client value.
+- Copilot Certified and Claude Architect professional, leading AI-driven transformation in Quality Engineering by leveraging GenAI, LLMs, Agentic AI, RAG, Predictive Analytics, and Intelligent Automation to architect next-generation testing solutions, improve productivity, predict quality risks, optimize release readiness, accelerate delivery, and create measurable business and client value.
+
 - Experience in developing testing solutions for Chaos engineering, Observability, Availability and Traceability of testing solutions
 - Drive and establish test architecture best practices across quality engineering, automation frameworks, test code reviews, performance validation, CI/CD integration, and quality governance while owning end-to-end delivery of business-critical testing solutions.
 - AI Driven automation in all languages supported by Selenium / Appium (XCUITest/UIAutomator2) with Java, Playwright, Cypress, Python & Ruby
