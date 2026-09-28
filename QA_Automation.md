@@ -118,4 +118,5 @@ The goal is to use automation to spend less time repeating tests and more time t
 
 #QA #QualityAssurance #TestAutomation #SoftwareTesting #Playwright #TypeScript #AutomationTesting #SDET #SoftwareQuality #CareerGrowth
 
-View image
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/775f1586-eefc-48d3-b926-5fa39aca7c2c" />
+
