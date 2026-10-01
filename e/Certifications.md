@@ -19,7 +19,6 @@ FSSAI (Food Safety and Standards Authority of India) License is a mandatory food
 
 
 ## Additional Certifications Commonly Required for Export
-
 Besides FSSAI, most international buyers in the USA, UK, Australia, UAE, and EU markets expect:
 - GMP / WHO-GMP Certification
 - MSDS (where applicable)
@@ -27,9 +26,22 @@ Besides FSSAI, most international buyers in the USA, UK, Australia, UAE, and EU 
 - HACCP / ISO 22000
 - FDA Facility Registration (for USA exports)
 
+## Certifications Recommended for Ayurvedic Exporters
+| Certification | Mandatory | Recommended |
+|--------------|-----------|-------------|
+| FSSAI Manufacturing License | ✅ India | ✅ |
+| GMP (Ayush/Food GMP) | ✅ | ✅ |
+| HACCP | ❌ | ✅ |
+| ISO 22000:2018 | ❌ | ✅ |
+| Organic Certification (NPOP/NOP) | If Organic Claims | ✅ |
+| US FDA Facility Registration | For USA Exports | ✅ |
+| UK Import Compliance | For UK Exports | ✅ |
+| Halal Certification | For Middle East Markets | ✅ |
+| Kosher Certification | For US/EU Markets | Optional |
 
--> NABL Lab Test Reports (provided by NABL-accredited laboratory) is generally required for:
-**Typical NABL reports often requested by buyers/importers include**:
+
+**NABL Lab Test Reports** (provided by NABL-accredited laboratory) is generally required for:
+### Typical NABL reports often requested by buyers/importers include:
 - Microbiological Analysis
 - Heavy Metal Testing
 - Pesticide Residue Testing
@@ -37,4 +49,18 @@ Besides FSSAI, most international buyers in the USA, UK, Australia, UAE, and EU 
 - Stability Testing
 - Nutritional Analysis
 - Certificate of Analysis (COA)
+
+**HACCP / ISO 22000** 
+- **ISO 22000** Comprehensive **Food Safety Management System** combining:
+      - HACCP principles
+      - Risk management
+      - Traceability
+      - Supplier controls
+      - Corrective actions
+      - Continuous improvement
+
+- **HACCP** (Hazard Analysis Critical Control Point)  focuses and controls:
+    - Biological hazards (bacteria, fungi, pathogens)
+    - Chemical hazards (pesticides, heavy metals)
+    - Physical hazards (foreign particles)
 
