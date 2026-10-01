@@ -1,12 +1,4 @@
-## OEM/ODM Private label Manufacturing Certifications:
-- GMP-certified production
-- ISO 22000 / HACCP
-- US FDA facility registration (for food supplements)
-- Organic certifications
-- Private labeling
-- Custom formulations
-- Amazon-ready packaging
-- UK and EU-compliant labeling
+
 
 
 
@@ -16,6 +8,16 @@
 
 For Pharmaceuticals exports Plan for **Ayurvedic products**, **nutraceuticals**, **herbal extracts**, and **private-label wellness products** as they often provide a lower entry barrier than prescription pharmaceutical exports, which require extensive regulatory approvals
 
+## OEM/ODM Private label Manufacturing Certifications:
+- GMP-certified production
+- ISO 22000 / HACCP
+- US FDA facility registration (for food supplements)
+- Organic certifications
+- Private labeling
+- Custom formulations
+- Amazon-ready packaging
+- UK and EU-compliant labeling
+  
 ## Regions to explore:
 - US, UK, Canada, Australia, Germany, France, Netherland, Italy, UAE, Saudi Arabia, Qatar, Singapore, Malaysia, Thailand, Indonesia, South Africa
 
