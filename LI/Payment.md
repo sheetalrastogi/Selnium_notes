@@ -5,7 +5,7 @@ Mastercard.
 SWIFT.
 RTGS.
 NEFT.
-
+```text
 But knowing a payment network is not the same as understanding Payments Architecture.
 
 A real Payments Architect needs to see the entire value chain:
@@ -56,3 +56,6 @@ Payments are no longer just about moving money.
 They are about moving value, trust and decisions — in real time.
 
 #Payments #PaymentSystems #PaymentsArchitecture #EnterpriseArchitecture #FinTech #BankingTechnology #DigitalPayments #OpenBanking #OpenFinance #EmbeddedFinance #RealTimePayments #PaymentTechnology #AI #AgenticAI #FinancialServices #Banking #Architecture #ISO20022 #PaymentInnovation #CTO #CIO #Banking #SolutionArchitecture #BusinessAnalyst #Payments #BankingTechnology #EnterpriseArchitecture #FinTech #EMV #PaymentSecurity #DigitalPayments #Viral #ArchitecturalThinking #Banking #PaymentTechnology #CardPayments #PaymentSystems #FinancialServices #Technology #Innovation #AI #DigitalTransformation #FutureOfPayments #TechnologyLeader #ProgramManager
+
+```
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/f322d17d-9f57-43f3-bd0c-e08263bba338" />
