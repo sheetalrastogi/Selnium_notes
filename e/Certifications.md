@@ -66,3 +66,4 @@ Besides FSSAI, most international buyers in the USA, UK, Australia, UAE, and EU 
     - Chemical hazards (pesticides, heavy metals)
     - Physical hazards (foreign particles)
 
+Label:  Product is made using pharma grade ingredients and manufactured in a **GMP Certified facility**. 
