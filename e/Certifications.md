@@ -21,14 +21,20 @@ FSSAI (Food Safety and Standards Authority of India) License is a mandatory food
 ## Additional Certifications Commonly Required for Export
 
 Besides FSSAI, most international buyers in the USA, UK, Australia, UAE, and EU markets expect:
-- IEC (Import Export Code)
-- FSSAI Central License
 - GMP / WHO-GMP Certification
-- Certificate of Analysis (COA)
-- NABL Lab Test Reports
 - MSDS (where applicable)
 - Organic Certification (if marketed as organic)
 - HACCP / ISO 22000
-US
- FDA Facility Registration (for USA exports)
-UK/EU country-specific compliance requirements
+- FDA Facility Registration (for USA exports)
+
+
+-> NABL Lab Test Reports (provided by NABL-accredited laboratory) is generally required for:
+**Typical NABL reports often requested by buyers/importers include**:
+- Microbiological Analysis
+- Heavy Metal Testing
+- Pesticide Residue Testing
+- Aflatoxin Testing
+- Stability Testing
+- Nutritional Analysis
+- Certificate of Analysis (COA)
+
