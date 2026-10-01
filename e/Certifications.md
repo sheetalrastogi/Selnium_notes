@@ -10,12 +10,14 @@
 
 
 
-
 ## IEC (Import Export Code)
 IEC (Importer Exporter Code) is a unique business identification number issued by the **Directorate General of Foreign Trade (DGFT)**, under the **Ministry of Commerce & Industry**, Government of India. It is generally mandatory for businesses or individuals who want to import goods into India or export goods from India.
 
 ## FSSAI
 FSSAI (Food Safety and Standards Authority of India) License is a mandatory food business license when your Ayurvedic product is classified and marketed as a food, nutraceutical, health supplement, herbal supplement, functional food, herbal tea, wellness drink, or dietary supplement.
+
+
+
 
 
 ## Additional Certifications Commonly Required for Export
