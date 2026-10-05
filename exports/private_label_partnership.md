@@ -76,3 +76,41 @@ Best regards,
 [Name]
 [Company]
 ```
+
+### Follow-up Email (5-7 Days Later)
+
+```text
+Subject: Following Up – Private Label Tote Bag Manufacturing
+
+Hello [Name],
+
+I wanted to follow up on my previous email regarding our private-label canvas tote bag manufacturing services.
+
+We currently support brands and distributors looking for:
+
+• Sustainable cotton tote bags
+• Promotional merchandise bags
+• Retail-ready private-label products
+• Custom packaging and branding
+
+Please let me know if there is an opportunity to discuss your sourcing requirements or if I can share samples and pricing.
+
+Thank you.
+
+Best regards,
+[Name]
+```
+
+
+**Attachments to include**
+```text
+✅ Product Catalogue (PDF)
+✅ Factory Profile
+✅ Certification Copies
+✅ Product Photos
+✅ Custom Printing Examples
+✅ MOQ & Pricing Sheet
+✅ Export Countries Served
+✅ Packaging Options
+✅ Sample Request Form
+```
