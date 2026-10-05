@@ -1,0 +1,23 @@
+```text
+English
+Français
+Deutsch
+Español
+Italiano
+Nederlands
+Türkçe
+Čeština
+Dansk
+Eesti keel
+Eλληνική
+Lietuvių
+Magyar
+Norsk
+Polski
+Português
+Română
+Slovenščina
+Suomi
+Svenska
+Български
+```
