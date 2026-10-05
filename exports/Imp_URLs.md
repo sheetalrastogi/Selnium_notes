@@ -5,5 +5,10 @@
 
 https://www.linencouture.com/en-global/collections/tote-bags
 
+---
 
+## 2. Another standard
+<img width="318" height="165" alt="image" src="https://github.com/user-attachments/assets/ca4a4d82-33fb-4769-bd1c-4e107582faef" />
+
+---
 
