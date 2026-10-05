@@ -13,3 +13,17 @@
 | ExtensionsBox | Maps-specific lead collection | CSV |
 | Maps Leads Scraper | Local business prospecting | CSV |
 
+### 2. For finding buyers/importers, these sources usually provide higher-quality leads than Google Maps:
+
+```text
+ImportGenius => https://www.importgenius.com/
+Volza => https://www.volza.com/
+Trademo => https://www.trademo.com/
+Panjiva => https://panjiva.com/
+Alibaba Buyers Directory => https://buyer.alibaba.com/
+Europages => 
+Kompass
+Yellow Pages UAE
+Dubai Chamber Business Directory
+https://www.gov.uk/government/organisations/companies-house
+```
