@@ -12,6 +12,16 @@ https://totebagfactory.com/collections/organic-cotton-tote-bags-canvas
 ### 4. Drawstring Cotton Backpack
 https://cottonbagco.co.uk/collections/wholesale-drawstring-cotton-bags
 
+### 5. Premium Canvas Tote with Zipper
+
+### 6. Arabic calligraphy tote bags
+https://www.etsy.com/market/arabic_tote_bags
+https://www.weprintyourgift.com/collections/fabric-bags/products/arabic-motivational-quotes-canvas-tote-bag
+
+### 7. Personalized Gift Tote Bags
+https://www.etsy.com/market/arabic_gift_bags
+
+### 8. Laptop Tote Bag (Highest Margin)
 
 
 
