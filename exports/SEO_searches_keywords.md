@@ -26,4 +26,11 @@ Traceable Supply Chain
 ==>  frdcenter
 ==> Top market places in xxx
 Flea & Street Markets in xxx
+Things to do in Switzerland
+Traveller's resources in xxx
+Antique stores in xxx
+Departmental stores in xxx
+Gift & Speciality shops
+Shopping malls in xxx
+Departmental stores in xxx
 ```
