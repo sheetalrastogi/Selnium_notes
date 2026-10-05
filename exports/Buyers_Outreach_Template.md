@@ -37,13 +37,16 @@
 
 
 ### Outreach Email Subject Lines
+```text
 • OEM Canvas Tote Bag Manufacturer from India
 • GOTS Certified Cotton Tote Bags – Private Label Supply
 • Sustainable Tote Bag Manufacturing Partner
 • Custom Canvas Bags for Retail & Promotional Use
 • Eco-Friendly Tote Bags – Direct Factory Supply
+```
 
 ### Information to Include in Outreach
+```text
 ✅ MOQ (Minimum Order Quantity)
 ✅ GOTS / OEKO-TEX Certifications
 ✅ Fabric GSM Options
@@ -54,8 +57,10 @@
 ✅ Export Markets Served
 ✅ Factory Photos & Catalogue
 ✅ Sample Availability
+```
 
 ### B2B Platforms to Find Tote Bag Buyers
+```text
 • Europages
 • Kompass UK
 • Faire
@@ -66,4 +71,8 @@
 • Alibaba Buyer RFQs
 • Global Sources
 • TradeKey
+```
+
+### 3. Outreach strategy:
+A practical strategy is to target **promotional merchandise distributors**, **corporate gifting companies**, and **sustainable retail brands** first, as they typically buy tote bags in recurring bulk quantities (500 to 50,000+ units) and are more receptive to OEM/private-label partnerships than large retail chains.
 
