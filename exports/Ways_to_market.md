@@ -21,9 +21,9 @@ Volza => https://www.volza.com/
 Trademo => https://www.trademo.com/
 Panjiva => https://panjiva.com/
 Alibaba Buyers Directory => https://buyer.alibaba.com/
-Europages => 
-Kompass
-Yellow Pages UAE
-Dubai Chamber Business Directory
-https://www.gov.uk/government/organisations/companies-house
+Europages => https://www.europages.co.uk/en/products?q=tote+bags
+Kompass => https://in.kompass.com/
+Yellow Pages UAE => https://www.yellowpages-uae.com/
+Dubai Chamber Business Directory => https://www.dubaichamber.com/
+https://www.gov.uk/government/organisations/companies-house 
 ```
