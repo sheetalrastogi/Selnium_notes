@@ -1,3 +1,4 @@
+```text
 1. Register Your Business
 2. Obtain GST Registration
 3. Apply for IEC (Import Export Code)
@@ -33,3 +34,4 @@ Approximate Startup Checklist
  ✅ Commercial Invoice Format
  ✅ Buyer Outreach & Marketplace Presence
 
+```
