@@ -114,3 +114,26 @@ Best regards,
 ✅ Packaging Options
 ✅ Sample Request Form
 ```
+
+
+## If Buyer Says "Send Me Information"
+```text
+Absolutely.
+
+I'll send over our company profile, sustainable tote bag catalogue, customization options, packaging solutions, and sample product images.
+
+Would it be helpful if I also included pricing indications and MOQ information?
+```
+
+## Call script
+```text
+Hello [Name],
+
+This is [Your Name] from [Company Name].
+
+We manufacture sustainable organic cotton and canvas tote bags for private-label brands, retailers, and promotional merchandise companies across international markets.
+
+I'd love to explore whether we could support your sourcing needs. I'll follow up with an email containing our catalogue and company profile.
+
+Thank you and have a great day.
+```
