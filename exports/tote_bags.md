@@ -65,3 +65,32 @@ Flat construction
 | Top Fold/Hem | 1" double fold |
 | Handle Width | 1" |
 | Fabric | 8-12 oz Cotton Canvas |
+
+
+
+## Required Fabric (44" Width)
+---
+```text
+✅ 51 yards (47 meters) minimum
+Recommended purchase:
+✅ 55 yards (50 meters)
+```
+
+## Required Fabric (58" Width)
+```text
+✅ 35 yards (32 meters) minimum
+Recommended purchase:
+✅ 38 yards (35 meters)
+```
+
+
+| Item | Quantity |
+|------|----------|
+| Canvas Fabric (44" width) | 51-55 yards |
+| Canvas Fabric (58" width) | 35-38 yards |
+| Handle Fabric | Included in above calculation |
+| Sewing Thread | 3-4 cones |
+| Care Labels | 100 pcs |
+| Brand Labels (optional) | 100 pcs |
+| Packaging Bags | 100 pcs |
+
