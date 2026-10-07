@@ -2,6 +2,21 @@
 Home & Kitchen
 Office & School
 Fashion
+Bathroom Hardware
+S shaped hooks for kitchen
+screw hooks
+Nails, Screws and Fastners
+Padlocks
+Double sided tape
+Magic click window mosquito net
+Universal Dowels (Gitti)
+Sealant
+Tile Paint 
+Fall protection seat belt
+Heavy duty cable tape
+wheelchair safety belt
+Belts (him & her)
+Fitness bands (5 levels - easy to xx-heavy)
 
 Towels:   
 Towels care explained here:
