@@ -10,5 +10,14 @@ Photorealistic, ultra-detailed metallic finishes, realistic reflections, luxury 
 Portrait format, cover-page layout, products dominate the frame, no empty space anywhere, visually dense and balanced composition, luxury atmosphere.
 
 No text, no logo, no watermark, no brand names, no people, no graphic elements, no borders.
+
+Available finish variations:
+Polished Chrome,
+Matte Black,
+Brushed Nickel,
+Gunmetal Grey,
+Champagne Gold,
+Rose Gold,
+display all finishes elegantly in one scene
 ```
 
