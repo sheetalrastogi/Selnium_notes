@@ -1,41 +1,430 @@
 **AI Image Generation Prompt**
 ```text
-Floating tempered glass shelf showcased in a luxury European designer bathroom, featuring an elegant display of premium bathroom accessories. The shelf is supported by refined brushed stainless steel brackets and styled within a sophisticated modern interior with Scandinavian luxury influences.
+Create a fully finished, print-ready, export-focused PDF catalogue for premium European bathroom accessories using the supplied high-resolution product and lifestyle images.
 
-Display six finish variations together in one beautifully composed scene:
-• Polished Chrome
+CATALOGUE OBJECTIVE
+
+Design a luxury commercial catalogue suitable for:
+
+• International importers
+• Bathroom distributors
+• Hospitality procurement teams
+• Architects & interior designers
+• Retail buyers
+• OEM / ODM clients
+• Private label customers
+• Export wholesalers
+
+OUTPUT FORMAT
+
+• PDF Catalogue
+• A4 Portrait
+• 300 DPI Print Quality
+• CMYK-friendly
+• Premium magazine-style layout
+• Commercial export presentation standard
+• Luxury product catalogue design
+• Retail buyer-ready
+• No watermark
+• No placeholder graphics
+• Professional typography
+• Full bleed where applicable
+
+OVERALL DESIGN STYLE
+
+• Premium European Bathroom Accessories Collection
+• Scandinavian minimalism
+• Contemporary European luxury
+• Hospitality-inspired interiors
+• High-end architectural photography
+• Luxury residential styling
+• Sophisticated visual storytelling
+• Editorial magazine aesthetic
+• Clean premium layouts
+• Elegant white space
+• Warm natural daylight
+• Stone and marble textures
+• Stainless steel detailing
+• Ultra-realistic imagery
+• Consistent branding across all pages
+• No clutter
+• No people
+• No logos on product imagery
+• No signage
+
+COLOUR PALETTE
+
+Primary:
+• White
+• Soft Stone Grey
+• Warm Marble Beige
+
+Secondary:
 • Matte Black
-• Brushed Nickel
-• Gunmetal Grey
-• Champagne Gold
-• Rose Gold
+• Stainless Steel Silver
+• Charcoal
 
-Each finish presented as a coordinated premium bathroom accessory collection on and around the floating glass shelf, including soap dispensers, trays, tumblers, holders, and decorative bathroom accents. Arrange finishes in a visually balanced, high-end retail presentation that allows each finish to be clearly distinguishable while maintaining a cohesive luxury aesthetic.
+Accent:
+• Warm Champagne Metallic
+• Architectural Grey
 
-Contemporary European luxury bathroom environment with natural stone walls, subtle marble textures, premium porcelain surfaces, architectural details, and elegant interior styling. Soft natural daylight streaming through large windows, creating realistic reflections on metal surfaces and tempered glass.
+TYPOGRAPHY
 
-Ultra-realistic commercial catalogue photography, luxury hotel-suite ambiance, premium export catalogue quality, editorial interior design photography, flawless reflections, realistic metal textures, crystal-clear tempered glass, exceptional material definition, sharp focus, sophisticated color grading, depth and dimension, award-winning product photography.
+Headings:
+• Playfair Display
+• Cormorant Garamond
+• Canela Style
 
-Composition fills the entire frame with no unused areas. Rich, visually dense arrangement. Perfect symmetry and balance. Premium lifestyle branding aesthetic. Portrait orientation suitable for catalogue cover.
+Body:
+• Montserrat
+• Helvetica Neue
+• Avenir
 
-Negative Prompt:
-No text, no typography, no logos, no watermark, no brand names, no labels, no people, no packaging, no borders, no empty space, no low resolution, no blur, no distortion, no cartoon style, no CGI look, no missing finish variants.
+Typography must feel:
 
+• Premium
+• Elegant
+• European
+• Architectural
+• Luxury retail quality
 
-```
+CATALOGUE STRUCTURE
 
-**Premium Export Catalogue Cover Version**
+TOTAL PAGES: 24
 
-```text
-Premium export catalogue cover featuring a floating tempered glass shelf with luxury bathroom accessories displayed in six metallic finishes: Polished Chrome, Matte Black, Brushed Nickel, Gunmetal Grey, Champagne Gold, and Rose Gold.
+-----------------------------------------------------
+PAGE 1
+FRONT COVER
+-----------------------------------------------------
 
-The finishes are elegantly arranged as a designer collection within a modern European bathroom. Premium brushed stainless steel shelf brackets, luxury marble and stone surfaces, Scandinavian minimalism, contemporary architectural styling, refined hospitality-inspired interiors.
+Title:
 
-High-end commercial photography, luxury retail catalogue aesthetics, ultra-photorealistic rendering, soft daylight illumination, realistic shadows, premium metallic reflections, crystal-clear glass elements, luxury bathroom showroom atmosphere, designer lifestyle magazine quality.
+PREMIUM EUROPEAN
+BATHROOM ACCESSORIES
+COLLECTION
 
-Products occupy the full scene with an immersive composition. Rich premium visual storytelling. Every finish clearly visible and beautifully presented. Sophisticated, elegant, export-market-ready presentation.
+Subtitle:
 
-Ultra realistic, 8K detail, editorial photography, luxury interior styling, flawless composition, no empty space.
+Modern Luxury Design for Hospitality, Residential & Commercial Projects
 
-No text, no logos, no watermark, no people, no signage, no branding elements.
+Visual Requirements:
+
+• Full-bleed hero image
+• All accessory categories visible
+• Polished Chrome and Matte Black finishes
+• Luxury marble environment
+• High-end architectural styling
+• Premium reflections
+• Luxury editorial photography
+• No empty space
+
+-----------------------------------------------------
+PAGE 2
+BRAND INTRODUCTION
+-----------------------------------------------------
+
+Sections:
+
+• Company Overview
+• Design Philosophy
+• Product Excellence
+• Export Capabilities
+• Manufacturing Expertise
+
+Highlight Icons:
+
+✓ Premium Stainless Steel
+
+✓ Corrosion Resistant
+
+✓ Architectural Design
+
+✓ Hospitality Grade
+
+✓ Easy Installation
+
+✓ OEM / ODM Available
+
+-----------------------------------------------------
+PAGE 3
+DESIGN PHILOSOPHY
+-----------------------------------------------------
+
+Content Areas:
+
+• Contemporary European Design
+• Scandinavian Simplicity
+• Longevity & Durability
+• Precision Craftsmanship
+• Luxury Hospitality Inspiration
+
+Large architectural lifestyle imagery.
+
+-----------------------------------------------------
+PAGE 4
+FINISH COLLECTION OVERVIEW
+-----------------------------------------------------
+
+Display:
+
+Collection A:
+Polished Chrome
+
+Collection B:
+Matte Black
+
+Show all products together.
+
+Luxury showroom presentation.
+
+Realistic finish comparisons.
+
+Large finish swatches.
+
+-----------------------------------------------------
+PAGES 5-6
+TOWEL RAIL
+-----------------------------------------------------
+
+Page 5:
+• Hero installation image
+• Product title
+• Lifestyle environment
+• Finish comparison
+
+Page 6:
+• Multiple product angles
+• Close-up photography
+• Material highlights
+
+Specifications Section:
+
+• Material
+• Finish Options
+• Installation Type
+• Packaging
+• MOQ
+
+-----------------------------------------------------
+PAGES 7-8
+TOWEL RING
+-----------------------------------------------------
+
+Include:
+
+• Hero image
+• Chrome version
+• Matte Black version
+• Detail gallery
+• Close-ups
+• Finish comparison
+• Product specifications
+• Packaging details
+• MOQ
+
+-----------------------------------------------------
+PAGES 9-10
+TOILET ROLL HOLDER
+-----------------------------------------------------
+
+Include:
+
+• Luxury installation photography
+• Architectural environment
+• Finish comparison
+• Detail views
+• Product highlights
+• Technical specifications
+• Packaging info
+• MOQ
+
+-----------------------------------------------------
+PAGES 11-12
+SOAP DISPENSER
+-----------------------------------------------------
+
+Include:
+
+• Countertop installation
+• Luxury marble vanity scene
+• Chrome version
+• Matte Black version
+• Detail photography
+• Lifestyle imagery
+• Technical highlights
+• Packaging
+• MOQ
+
+-----------------------------------------------------
+PAGES 13-14
+TOILET BRUSH & HOLDER
+-----------------------------------------------------
+
+Include:
+
+• Hero installation image
+• Finish variants
+• Product details
+• Lifestyle photography
+• Close-up finish photography
+• Packaging section
+• MOQ section
+
+-----------------------------------------------------
+PAGES 15-16
+BATHROOM HOOK
+-----------------------------------------------------
+
+Include:
+
+• Luxury wall installation
+• Textile styling
+• Chrome version
+• Matte Black version
+• Close-ups
+• Lifestyle imagery
+• Technical highlights
+• Packaging
+• MOQ
+
+-----------------------------------------------------
+PAGES 17-18
+GLASS SHELF
+-----------------------------------------------------
+
+Include:
+
+• Tempered glass shelf
+• Chrome bracket version
+• Matte Black bracket version
+• Glass edge details
+• Bracket craftsmanship
+• Reflections and transparency
+• Technical details
+• Packaging
+• MOQ
+
+-----------------------------------------------------
+PAGES 19-20
+SHOWER STORAGE BASKET
+-----------------------------------------------------
+
+Include:
+
+• Luxury shower environment
+• Chrome version
+• Matte Black version
+• Hospitality-inspired styling
+• Product detail photography
+• Finish comparisons
+• Packaging information
+• MOQ
+
+-----------------------------------------------------
+PAGE 21
+MATERIAL & MANUFACTURING
+-----------------------------------------------------
+
+Sections:
+
+• Stainless Steel Grades
+• Corrosion Resistance
+• Surface Finishing Process
+• Quality Control
+• Dimensional Inspection
+• Export Standards
+
+Include manufacturing imagery and quality close-ups.
+
+-----------------------------------------------------
+PAGE 22
+EXPORT PACKAGING & LOGISTICS
+-----------------------------------------------------
+
+Display:
+
+• Individual Product Packaging
+• Master Carton Packaging
+• Pallet Loading Visuals
+• Export Container Loading
+
+Information Areas:
+
+• MOQ
+• Lead Time
+• Packaging Options
+• Global Shipping Support
+
+-----------------------------------------------------
+PAGE 23
+OEM / PRIVATE LABEL SERVICES
+-----------------------------------------------------
+
+Sections:
+
+• OEM Manufacturing
+• ODM Product Development
+• Custom Packaging
+• Custom Branding
+• Laser Engraving
+• Retail Packaging Solutions
+
+Include premium visual presentation.
+
+-----------------------------------------------------
+PAGE 24
+BACK COVER
+-----------------------------------------------------
+
+Elegant architectural bathroom scene.
+
+Selected accessories displayed naturally.
+
+Luxury marble.
+
+Soft daylight.
+
+Minimal composition.
+
+No marketing text.
+
+No watermark.
+
+Only company contact details if required.
+
+IMAGE USAGE RULES
+
+Every product chapter must contain:
+
+• Large hero image
+• Lifestyle installation image
+• Chrome finish image
+• Matte Black finish image
+• Close-up detail image
+• Architectural setting image
+
+VISUAL QUALITY REQUIREMENTS
+
+• Ultra-realistic rendering
+• Commercial photography quality
+• Luxury retail presentation
+• Premium export catalogue standard
+• Realistic metallic reflections
+• Accurate material textures
+• Crystal-clear glass detailing
+• Premium marble and stone surfaces
+• Hospitality-inspired interiors
+• Contemporary European styling
+• Sophisticated visual storytelling
+• No clutter
+• No people
+• No logos
+• No signage
+• No watermark
+• No empty space
+
+FINAL RESULT
+
+Create a luxury 24-page premium export catalogue that looks comparable to leading European bathroom accessory brands and is suitable for direct presentation to distributors, importers, architects, hospitality buyers, and private-label customers worldwide.
+
 ```
