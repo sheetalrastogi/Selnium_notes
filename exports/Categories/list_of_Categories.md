@@ -264,6 +264,7 @@ For an India export business, focus on products that are:
  ✅ Home healthcare products
 
 ## Best Categories for a New Exporter (Lowest Entry Barrier)
+
 **Tier 1 (Recommended)**
 ✅ Bathroom Accessories
 ✅ Home Decor
@@ -278,3 +279,7 @@ For an India export business, focus on products that are:
 **Tier 3 (Requires Regulatory Compliance)**
 - Medical Gear
 
+
+---
+
+<img width="269" height="2268" alt="image" src="https://github.com/user-attachments/assets/771147f7-2250-403c-b8fa-ae52701c92c4" />
