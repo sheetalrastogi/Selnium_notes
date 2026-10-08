@@ -16,3 +16,8 @@
  Outside Caterer
  Leisure
 ```
+
+- https://www.churchill1795.com/en/edge-chip-warranty/
+- https://www.churchill1795.com/en/customised-design/   (workflow for custom design:  https://www.churchill1795.com/wp-content/uploads/2024/08/Churchill_Badging_Web_Document.pdf)
+- https://www.churchill1795.com/en/category/sustainability/
+- https://www.churchill1795.com/en/sitemap/
