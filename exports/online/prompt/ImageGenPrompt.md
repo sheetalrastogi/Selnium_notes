@@ -428,3 +428,51 @@ FINAL RESULT
 Create a luxury 24-page premium export catalogue that looks comparable to leading European bathroom accessory brands and is suitable for direct presentation to distributors, importers, architects, hospitality buyers, and private-label customers worldwide.
 
 ```
+
+
+## How to upload images for above catalogue
+
+```text
+The best approach is to upload all product images and lifestyle images directly into this chat.
+
+Option 1 - Upload ZIP Folder
+
+Create a folder structure like:
+
+Bathroom_Catalogue_Assets/
+
+├── Cover/
+│   ├── hero_01.jpg
+│   └── hero_02.jpg
+
+├── Towel_Rail/
+│   ├── chrome_01.jpg
+│   ├── matte_black_01.jpg
+│   ├── lifestyle_01.jpg
+│   ├── closeup_01.jpg
+│   └── specification.png
+
+├── Towel_Ring/
+│   ├── chrome_01.jpg
+│   ├── matte_black_01.jpg
+│   ├── lifestyle_01.jpg
+│   └── closeup_01.jpg
+
+├── Toilet_Roll_Holder/
+├── Soap_Dispenser/
+├── Toilet_Brush/
+├── Hook/
+├── Glass_Shelf/
+├── Shower_Basket/
+
+└── Branding/
+    ├── company_logo.ai
+    ├── contact_details.txt
+    └── certifications.pdf
+
+```
+
+Then:
+
+1. Compress as:    **Bathroom_Catalogue_Assets.zip**
+2. Drag & drop the ZIP file into chat.
