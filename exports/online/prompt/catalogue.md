@@ -1,23 +1,17 @@
-**Premium Catalogue Cover Image Prompt**
+### generating a complete Tiger-inspired premium bathroom accessories catalogue cover plus product showcase in one image
 
 ```text
-Premium export catalogue cover for luxury bathroom accessories, featuring a curated collection of matte black and brushed steel towel rails, soap dispensers, toilet paper holders, towel hooks, glass shelves, and shower caddies displayed together in an elegant Scandinavian-inspired designer bathroom.
+Premium export catalogue cover featuring a floating tempered glass shelf with luxury bathroom accessories displayed in six metallic finishes: Polished Chrome, Matte Black, Brushed Nickel, Gunmetal Grey, Champagne Gold, and Rose Gold.
 
-Ultra-luxury European interior, natural marble walls, textured stone finishes, premium wood accents, soft daylight combined with architectural accent lighting, exclusive hotel-suite ambiance, minimalist yet sophisticated styling. High-end commercial photography with flawless product positioning, perfect symmetry, editorial-quality composition, premium lifestyle branding aesthetic.
+The finishes are elegantly arranged as a designer collection within a modern European bathroom. Premium brushed stainless steel shelf brackets, luxury marble and stone surfaces, Scandinavian minimalism, contemporary architectural styling, refined hospitality-inspired interiors.
 
-Photorealistic, ultra-detailed metallic finishes, realistic reflections, luxury materials, cinematic depth, sharp focus throughout, premium product showcase, contemporary European bathroom design trends, luxury retail catalogue cover, export-ready marketing visual.
+High-end commercial photography, luxury retail catalogue aesthetics, ultra-photorealistic rendering, soft daylight illumination, realistic shadows, premium metallic reflections, crystal-clear glass elements, luxury bathroom showroom atmosphere, designer lifestyle magazine quality.
 
-Portrait format, cover-page layout, products dominate the frame, no empty space anywhere, visually dense and balanced composition, luxury atmosphere.
+Products occupy the full scene with an immersive composition. Rich premium visual storytelling. Every finish clearly visible and beautifully presented. Sophisticated, elegant, export-market-ready presentation.
 
-No text, no logo, no watermark, no brand names, no people, no graphic elements, no borders.
+Ultra realistic, 8K detail, editorial photography, luxury interior styling, flawless composition, no empty space.
 
-Available finish variations:
-Polished Chrome,
-Matte Black,
-Brushed Nickel,
-Gunmetal Grey,
-Champagne Gold,
-Rose Gold,
-display all finishes elegantly in one scene
+No text, no logos, no watermark, no people, no signage, no branding elements.
 ```
+
 
