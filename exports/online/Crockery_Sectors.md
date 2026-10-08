@@ -70,5 +70,29 @@ Make contacts for following:
 <img width="4032" height="1520" alt="image" src="https://github.com/user-attachments/assets/4073d41b-df6d-4471-9f48-58439af76f2b" />
 
 
+### Tier 2 - Builders Merchant & Trade Groups
+
+<img width="4032" height="1503" alt="image" src="https://github.com/user-attachments/assets/7eea13ab-2ee2-4b15-b697-e49a78427a9f" />
+
+### Tier 3 - Importers Suitable for India OEM Supply
+
+<img width="4032" height="1532" alt="image" src="https://github.com/user-attachments/assets/bea9d59f-a956-40e1-9434-827b3d3747c0" />
 
 
+**Products Most Likely to Sell**
+```text
+Towel Rails
+Towel Rings
+Robe Hooks
+Toilet Roll Holders
+Soap Dispensers
+Toilet Brush Holders
+Glass Shelves
+Shower Baskets
+Corner Baskets
+Grab Rails
+Hotel Accessories Sets
+Matte Black Collections
+Brushed Brass Collections
+Gunmetal Collections
+```
