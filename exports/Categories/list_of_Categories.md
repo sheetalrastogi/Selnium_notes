@@ -282,4 +282,191 @@ For an India export business, focus on products that are:
 
 ---
 
-<img width="269" height="2268" alt="image" src="https://github.com/user-attachments/assets/771147f7-2250-403c-b8fa-ae52701c92c4" />
+## Stationery
+1. Office Stationery
+Writing Products
+Ball Pens
+Gel Pens
+Roller Pens
+Fountain Pens
+Pencil Sets
+Mechanical Pencils
+Highlighters
+Markers
+Paper Products
+Notebooks
+Diaries
+Journals
+Memo Pads
+Sticky Notes
+Writing Pads
+Legal Pads
+Desk Accessories
+Pen Holders
+Document Trays
+Desk Organizers
+Paperweights
+Mouse Pads
+Business Card Holders
+2. Eco-Friendly Stationery
+Sustainable Products
+Recycled Paper Notebooks
+Seed Paper Notebooks
+Kraft Paper Journals
+Bamboo Pens
+Wooden Pens
+Cork Notebooks
+Jute Pencil Cases
+Cotton Pouches
+Export Hot Sellers
+✅ Bamboo Pens
+✅ Recycled Notebooks
+✅ Seed Paper Products
+✅ Cork Journals
+
+3. Premium Corporate Stationery
+Executive Collection
+Leather Diaries
+PU Leather Journals
+Luxury Pen Sets
+Gift Box Sets
+Executive Organizers
+Desk Sets
+Corporate Gift Kits
+Notebook + Pen Sets
+Conference Kits
+Premium Business Gift Boxes
+Employee Welcome Kits
+Export Hot Sellers
+✅ Executive Diaries
+✅ Notebook Gift Sets
+✅ Corporate Gift Boxes
+
+4. School Stationery
+Student Products
+Exercise Books
+Drawing Books
+Sketch Books
+Pencil Boxes
+Geometry Sets
+Erasers
+Sharpeners
+Crayons
+Creative Products
+Coloring Books
+Art Kits
+Craft Sets
+Activity Books
+5. Art & Craft Supplies
+Artist Products
+Sketch Pads
+Watercolor Books
+Acrylic Paint Sets
+Brushes
+Canvas Boards
+DIY Craft
+Scrapbook Kits
+Sticker Packs
+Washi Tape
+Craft Paper Sets
+Decorative Paper
+Export Hot Sellers
+✅ Craft Kits
+✅ Sketchbooks
+✅ Scrapbook Accessories
+
+6. Packaging & Gift Stationery
+Gift Packaging
+Gift Bags
+Gift Boxes
+Tissue Paper
+Gift Wrapping Paper
+Ribbon Sets
+Event Products
+Greeting Cards
+Invitation Cards
+Thank You Cards
+Wedding Stationery
+Export Hot Sellers
+✅ Premium Gift Bags
+✅ Handmade Greeting Cards
+✅ Gift Box Sets
+
+7. Planner & Journal Category
+Productivity Products
+Daily Planners
+Weekly Planners
+Monthly Planners
+Goal Journals
+Habit Trackers
+Budget Planners
+Wellness Journals
+Trending Products
+✅ Undated Planners
+✅ Wellness Journals
+✅ Productivity Notebooks
+
+8. Home Office Stationery
+Work-from-Home Products
+Desk Mats
+Monitor Stands
+Laptop Stands
+Cable Organizers
+Planner Boards
+Sticky Note Holders
+9. Customized & Personalized Stationery
+Private Label Products
+Custom Notebooks
+Company-Branded Diaries
+Logo Pens
+Personalized Journals
+Promotional Products
+Target Buyers
+Corporates
+Schools
+Universities
+Hotels
+Event Companies
+10. Luxury Handmade Stationery
+Artisan Collection
+Handmade Paper Journals
+Leather-Bound Diaries
+Handmade Greeting Cards
+Wooden Cover Notebooks
+Fabric-Covered Journals
+Export Hot Sellers
+✅ Handmade Journals
+✅ Leather Notebooks
+✅ Premium Gift Stationery
+
+Best Export Categories from India
+Tier 1 (Highest Potential)
+✅ Eco-Friendly Stationery
+✅ Corporate Gifting Stationery
+✅ Premium Notebooks & Journals
+✅ Gift Packaging Products
+✅ Handmade Paper Products
+✅ Bamboo & Wooden Stationery
+
+Tier 2
+✅ School Stationery
+✅ Art & Craft Supplies
+✅ Planner Products
+
+Tier 3
+✅ Commodity Pens & Pencils
+
+Most Profitable Combination
+Stationery
+
+Corporate Gifts
+Eco-Friendly Products
+Tote Bags
+Desk Accessories
+High-Potential Markets
+United Kingdom (UK)
+European Union (EU)
+United Arab Emirates (UAE)
+Corporate Gifting Market
+These markets increasingly demand sustainable, eco-friendly, and private-label stationery products, making them attractive destinations for Indian exporters.
+
