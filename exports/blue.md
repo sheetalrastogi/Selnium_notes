@@ -4,6 +4,9 @@ blue pottery stencil, ceramic pattern stencil, pottery texture stencil
 
 
 ## Websites to scrape for ideas:
+
+- https://www.heinendelftsblauw.nl/cabinet-des-fleurs-collectie/
+- 
 **Geometric / Scandinavian / Minimalist**
 - https://www.thestencilstudio.com/
 - https://my-stencils.com/
