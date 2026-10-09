@@ -23,6 +23,8 @@ https://www.etsy.com/market/arabic_gift_bags
 
 ### 8. Laptop Tote Bag (Highest Margin)
 
+### 9. Paris, Provence, French-style prints for tote bags
+eg. https://www.amazon.in/s?srs=82218139031&rh=p_89%3AXYANFA
 
 
 ## Jute Bags:
