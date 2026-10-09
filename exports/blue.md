@@ -1,6 +1,33 @@
 ## Keywords:
 Pottery Stencils
 
+
+## Websites to scrape for ideas:
+**Geometric / Scandinavian / Minimalist**
+- https://www.thestencilstudio.com/
+- https://my-stencils.com/
+- https://www.cuttingedgestencils.com
+- https://www.royaldesignstudio.com
+- https://www.designerstencils.com
+- https://www.stencilrevolution.com
+- https://www.stencilslab.com
+- https://www.stencilgirlproducts.com
+**Contemporary Pattern Libraries**
+- https://www.creativefabrica.com
+- https://designbundles.net
+- https://www.etsy.com
+- https://www.svgcuts.com
+- https://www.creativemarket.com
+- https://www.freesvg.org
+**Sources for Blue Pottery / Moroccan / Indian-Inspired Patterns**
+- https://www.thestencilstudio.com/collections/indian-stencils
+- https://www.thestencilstudio.com/collections/moroccan-stencils
+- https://my-stencils.com
+- https://www.etsy.com/search?q=moroccan+tile+stencil
+- https://www.etsy.com/search?q=mandala+pottery+stencil
+- https://www.etsy.com/search?q=ceramic+glaze+stencil
+
+
 ## Websites selling Jaipur Blue Pottery
 
 - bluejaipur.com
