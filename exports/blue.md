@@ -17,3 +17,19 @@
 - Rajasthan Blue Art Pottery
 - Blue Pottery House Jaipur
 
+### Online Craft & Artisan Marketplaces
+- Gaatha Crafts - https://shop.gaatha.com/buy-indian-crafts/blue-pottery-craft-jaipur
+- iTokri - https://itokri.com/collections/rajasthan-blue-pottery
+- Ethnic India Handicrafts - https://ethnicindiahandicrafts.com/collections/blue-pottery
+- Jaypore - https://www.jaypore.com
+- Okhai - https://www.okhai.org
+- WorldArtCommunity - https://worldartcommunity.com
+- Amala Earth - https://amalaearth.com
+- India Circus - https://indiacircus.com
+- ExclusiveLane - https://www.exclusivelane.com
+- Scribbled Nest
+- The India Craft House
+- Nomad India
+- Artisans Crest
+- Handmade India Shop
+- Rustic Blends
