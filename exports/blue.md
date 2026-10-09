@@ -1,3 +1,6 @@
+## Keywords:
+Pottery Stencils
+
 ## Websites selling Jaipur Blue Pottery
 
 - bluejaipur.com
