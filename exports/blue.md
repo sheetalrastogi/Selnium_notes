@@ -1,5 +1,6 @@
 ## Keywords:
-Pottery Stencils
+Pottery Stencils, ceramic stencil, glaze stencil, underglaze stencil, pottery silkscreen, moroccan tile stencil, mandala stencil, 
+blue pottery stencil, ceramic pattern stencil, pottery texture stencil
 
 
 ## Websites to scrape for ideas:
