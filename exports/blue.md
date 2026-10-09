@@ -2,11 +2,14 @@
 Pottery Stencils, ceramic stencil, glaze stencil, underglaze stencil, pottery silkscreen, moroccan tile stencil, mandala stencil, 
 blue pottery stencil, ceramic pattern stencil, pottery texture stencil
 
+holland souvenirs
 
 ## Websites to scrape for ideas:
 
 - https://www.heinendelftsblauw.nl/cabinet-des-fleurs-collectie/
-- 
+- https://www.123rf.com/stock-photo/holland_souvenirs.html
+
+
 **Geometric / Scandinavian / Minimalist**
 - https://www.thestencilstudio.com/
 - https://my-stencils.com/
