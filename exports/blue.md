@@ -33,3 +33,30 @@
 - Artisans Crest
 - Handmade India Shop
 - Rustic Blends
+
+
+### Wholesale & Export-Oriented Sources
+- IndiaMART Blue Pottery Suppliers - https://www.indiamart.com
+- TradeIndia Blue Pottery Exporters - https://www.tradeindia.com
+- ExportersIndia Blue Pottery Suppliers - https://www.exportersindia.com
+- Alibaba Jaipur Blue Pottery Suppliers - https://www.alibaba.com
+- IndiaBizClub Handicrafts
+- Fibre2Fashion Marketplace
+- Global Sources India Handicrafts
+- Amazon India Handmade
+- Etsy Jaipur Blue Pottery Sellers
+- eBay Handmade Pottery Sellers
+
+
+### Home Décor & Boutique Retailers Selling Jaipur Blue Pottery
+- FabIndia - https://www.fabindia.com
+- Good Earth - https://www.goodearth.in
+- The Decor Kart - https://www.thedecorkart.com
+- Ellementry - https://www.ellementry.com
+- Pepperfry Handmade Collection - https://www.pepperfry.com
+- India Craft Week Marketplace
+- Chumbak Artisan Collection
+- Purple Turtles
+- Address Home
+- Freedom Tree
+
