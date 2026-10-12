@@ -20,5 +20,9 @@ https://www.hohenstein.com/en/certification/
 <img width="563" height="335" alt="image" src="https://github.com/user-attachments/assets/8e95ac33-fe99-4eec-933b-766f5b4fe186" />
 
 
+## 4. Questions asked on online store
+https://www.desertcart.in/
+
+<img width="946" height="322" alt="image" src="https://github.com/user-attachments/assets/67190da5-d3e2-411c-ae64-2bcd0322edb4" />
 
 https://heartfulcraft.com/catalog/7-solapur-terry-towel
