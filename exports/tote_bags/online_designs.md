@@ -6,3 +6,6 @@ https://www.etsy.com/in-en/market/wildflowers_tote_bag?ref=lp_queries_external_t
 
 ## 3. anthropologie
 https://www.anthropologie.com/search?q=tote+bag+designs
+
+## 4. society6
+https://society6.com/search?q=tote%20bags
