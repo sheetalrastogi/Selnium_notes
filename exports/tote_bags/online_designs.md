@@ -9,3 +9,6 @@ https://www.anthropologie.com/search?q=tote+bag+designs
 
 ## 4. society6
 https://society6.com/search?q=tote%20bags
+
+## 5. redbubble
+https://www.redbubble.com/shop?query=tote%20bag&ref=search_box
