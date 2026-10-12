@@ -23,7 +23,7 @@ Herend (Hungary)
 - Karlovy Vary (Czech Republic)
 - Faenza (Italy)
 - Deruta (Italy)
-<br>
+
 **Decorative Pottery & Home Décor**
 - Caltagirone (Italy)
 - Vietri sul Mare (Italy)
@@ -31,7 +31,7 @@ Herend (Hungary)
 - Talavera de la Reina (Spain)
 - Quimper (France)
 - Gmunden (Austria)
-<br>
+
 **Gift & Souvenir Ceramics**
 - Delft (Netherlands)
 - Bolesławiec (Poland)
