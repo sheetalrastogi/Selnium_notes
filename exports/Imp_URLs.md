@@ -25,4 +25,9 @@ https://www.desertcart.in/
 
 <img width="946" height="322" alt="image" src="https://github.com/user-attachments/assets/67190da5-d3e2-411c-ae64-2bcd0322edb4" />
 
+
+## 5.  How to care your product
+
+<img width="935" height="362" alt="image" src="https://github.com/user-attachments/assets/3fc4598f-5027-4385-bbf1-2fd426a68386" />
+https://stelway.in/products/stelway-shiny-chromium-grey-ballerinas
 https://heartfulcraft.com/catalog/7-solapur-terry-towel
