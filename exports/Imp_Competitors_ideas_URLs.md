@@ -37,5 +37,7 @@ https://stelway.in/products/stelway-shiny-chromium-grey-ballerinas
 
 ## 6. why choose us 
 <img width="321" height="433" alt="image" src="https://github.com/user-attachments/assets/c80a2b45-c94f-4862-b7d2-1965e53924d3" />
+<img width="321" height="433" alt="image" src="https://github.com/user-attachments/assets/61adad14-b96c-46a7-b064-ee72cfdcdb80" />
+
 
 https://heartfulcraft.com/catalog/7-solapur-terry-towel
