@@ -1,0 +1,11 @@
+**Most Collectible Pottery Styles for Tourists & Importers**
+- Delft Blue (Netherlands)
+- Jaipur Blue Pottery (India)
+- Talavera (Spain & Mexico)
+- Iznik Ceramics (Turkey)
+- Raku Pottery (Japan)
+- Bizen Ware (Japan)
+- Yixing Teapots (China)
+- Celadon (China/Korea)
+- Meissen Porcelain (Germany)
+- Deruta Ceramics (Italy)
