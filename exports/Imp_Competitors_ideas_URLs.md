@@ -1,5 +1,9 @@
 ### tote bag online design 
 
+## A.  All about canvas
+
+https://www.canvasetc.com/best-canvas-material-for-tote-bag/
+
 ## 1. ChatGPT to try out Advisor:
 <img width="768" height="411" alt="image" src="https://github.com/user-attachments/assets/0f6f85f0-74fb-46e7-9864-7d5c6db4a634" />
 
