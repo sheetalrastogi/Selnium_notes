@@ -120,5 +120,135 @@
 | 118 | ITC Hotels | Itchotels |
 | 119 | Jindal Steel | hindalstel |
 | 120 | Jio Finance | Jiofin |
-
-*The list contains 252 entries. Due to message-length limits, I've provided entries 1-120 above. The remaining entries (121-252) can be converted into the same markdown table format in a continuation message.*
+| 121 | JK Cement | JKCement |
+| 122 | JSW Dulux | JSWDulux |
+| 123 | JSW Energy | JSWEnergy |
+| 124 | JSW Infra | JSWInfra |
+| 125 | JSW Steel | JSWSteel |
+| 126 | Kalyan Jewellers | KalyankJil |
+| 127 | Kaynes Technologies | kaynes |
+| 128 | KEI Wires and Cables | kei |
+| 129 | Kingfa Sci & Tec Ind Ltd | kingfa |
+| 130 | Kotak Mahindra Bank | kotakbank |
+| 131 | KPI Technologies | kpitech |
+| 132 | KPR Mills Ltd | kprmill |
+| 133 | KRN Heat Exchange N Ref Ltd | krn |
+| 134 | Laurus Labs | lauruslabs |
+| 135 | Lemon Tree | lemontree |
+| 136 | Linde India | lindeindia |
+| 137 | Lodha Developers | lodha |
+| 138 | L&T | lt |
+| 139 | L&T Finance Ltd | ltf |
+| 140 | L&T Technology Services Ltd | ltts |
+| 141 | Lupin Limited | lupin |
+| 142 | Mahindra and Mahindra | M&M |
+| 143 | M&M Finance | M&Mfin |
+| 144 | Mahindra Lifespace Developers Ltd | Mahlife |
+| 145 | Manyavar | Manyavar |
+| 146 | Maruti | Maruti |
+| 147 | Max Healthcare | MaxHealth |
+| 148 | Mazdock | Maxdock |
+| 149 | Multi Commodity Exchange | MCX |
+| 150 | Metro Brand | MetroBrand |
+| 151 | Max Financial Services Ltd | MFSL |
+| 152 | Mahanagar Gas Ltd | MGL |
+| 153 | Mishra Dhatu Nigam Ltd | Midhani |
+| 154 | Motherson Sumi | motherson |
+| 155 | Mphasis | Mphasis |
+| 156 | Nippon Life India Asset Management Ltd | NAM-india |
+| 157 | Natco Pharmaceuticals | NatcoPharm |
+| 158 | National Aluminium | Nationalum |
+| 159 | Nava Ltd | Nava |
+| 160 | Navin Fluorine | navinfluor |
+| 161 | Nazara | nazara |
+| 162 | NCC | ncc |
+| 163 | Nelco | nelco |
+| 164 | Nestle India | nestleind |
+| 165 | Network18 | network18 |
+| 166 | Narayana Hrudayalaya | nh |
+| 167 | National Mineral Development Corp | nmdc |
+| 168 | Oberoi Realty | oberoirlty |
+| 169 | Oracle Financial Services Ltd | OFSS |
+| 170 | Ola Electric | Olaelec |
+| 171 | Page Industries | PageInd |
+| 172 | Patanjali | Patanjali |
+| 173 | Paytm | Paytm |
+| 174 | Persistent | Persistent |
+| 175 | Prime Focus | Pfocus |
+| 176 | Pidilite Industries | Pidilitind |
+| 177 | PI Industries | PIIND |
+| 178 | Pine Labs | Pinelabs |
+| 179 | Policy Bazaar | Policybzr |
+| 180 | Polycab | polycab |
+| 181 | Hitachi Energy India Ltd | powerInd |
+| 182 | Piramal Pharma Ltd | PPLPharma |
+| 183 | Premier Energies Limited | Premierene |
+| 184 | Prestige | Prestige |
+| 185 | PVR Inox | PVRInox |
+| 186 | Physics Walla | PWL |
+| 187 | Radico Khaitan | Radico |
+| 188 | REC Ltd | RECltd |
+| 189 | Reliance | Reliance |
+| 190 | RITES | RITES |
+| 191 | RVNL | RVNL |
+| 192 | Sagility Limited | Sagility |
+| 193 | SBI Cards | SBICard |
+| 194 | SBI Funds | SBIFunds |
+| 195 | SBI Life | SBILife |
+| 196 | State Bank of India | SBIN |
+| 197 | Schaeffler India Ltd | Schaeffler |
+| 198 | Schneider Electric Infra | Schneider |
+| 199 | Shaily Eng Plastics Ltd | Shaily |
+| 200 | Shree Cements | Shreecem |
+| 201 | Shriram Finance | Shriramfin |
+| 202 | Siemens | Siemens |
+| 203 | Sigma Advanced Systems Ltd | Sigmaadv |
+| 204 | SKF India | SKFIndia |
+| 205 | SKF Industries | SKFIndus |
+| 206 | Solar Industries | solarinds |
+| 207 | Star Health | starhealth |
+| 208 | Sundaram Finance | Sundarmfin |
+| 209 | Sun Pharmaceuticals | sunpharma |
+| 210 | Sun TV | suntv |
+| 211 | Supreme Industries | Supremeind |
+| 212 | Swiggy | Swiggy |
+| 213 | Tanfac Industries Limited | TanFacind |
+| 214 | Tata Chemicals | TataChem |
+| 215 | Tata Communications | Tatacomm |
+| 216 | Tata Power | tatapower |
+| 217 | Transport Corp. of India | TCI |
+| 218 | TCI Express Ltd | TCIExp |
+| 219 | TCPL Packaging Limited | TCPLPack |
+| 220 | TD Power Systems Ltd | TDPowersys |
+| 221 | Tejas Networks Limited | tejasnet |
+| 222 | Thangamayil Jewellers | Thangamayl |
+| 223 | Thermax Ltd | Thermax |
+| 224 | Technocraft Industries Ltd | TIIL |
+| 225 | Tube Investments of India Ltd | TIINDIA |
+| 226 | Timken India Ltd | Timken |
+| 227 | Tips Music | TipsMusic |
+| 228 | Titagarh Railways | titagarh |
+| 229 | Titan Industries | Titan |
+| 230 | TMCV | TMCV |
+| 231 | TMPV | TMPV |
+| 232 | Torrent Pharmaceuticals | TorntPharm |
+| 233 | Torrent Power | TorntPower |
+| 234 | Trent Ltd | Trent |
+| 235 | Triveni Engg. & Ind. Ltd | Triveni |
+| 236 | Tata Teleservices (Maharashtra) | ttml |
+| 237 | TVS Motors | TVSMotor |
+| 238 | Ultratech Cements | Ultracemco |
+| 239 | United Spirits | Unitdspr |
+| 240 | Varun Beverages Ltd | VBL |
+| 241 | Vishal Mega Mart | VMM |
+| 242 | Voltas | Voltas |
+| 243 | VS Tillers | Vstillers |
+| 244 | VST Industries | VSTInd |
+| 245 | Vardhman Textiles Ltd | vtl |
+| 246 | Waaree Energies | waareeener |
+| 247 | Welspun Corp. Limited | Welcorp |
+| 248 | Whirlpool | Whirlpool |
+| 249 | Wipro | wipro |
+| 250 | Zee Entertainment | Zeel |
+| 251 | Zen Technologies Ltd | ZENTEC |
+| 252 | Zydus Lifesciences Ltd | ZYDUSLIFE |
