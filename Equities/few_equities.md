@@ -1,3 +1,5 @@
+=GOOGLEFINANCE("NSE:RELIANCE","price")
+
 | S.No. | Equity | Symbol |
 |------:|---------|---------|
 | 1 | 360 One Wam Limited | 360One |
