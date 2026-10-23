@@ -1,3 +1,4 @@
+```text
 Home
 ├── Dinnerware
 │   ├── Plates
@@ -15,3 +16,4 @@ Home
 ├── Seasonal Collections
 ├── Custom Designs
 └── Contact Us
+```
