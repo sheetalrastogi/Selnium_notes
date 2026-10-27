@@ -1,3 +1,8 @@
+
+---
+a.  keep collecting notes with 456 consecutively anywhere in notes number and save in tijori
+
+---
 a. Ameer banne ka mantra:
 
 ॐ नमो आदेश गुरु को। गणेश जटा-जूट, ऋद्धि-सिद्धि के भंडार। मेरे घर में आओ, धन-धान्य की भरमार। आओ लक्ष्मी, बैठो लक्ष्मी, सदा रहो मेरे साथ। मेरा कार्य सिद्ध हो, मेरा ही हो हाथ। शब्द साँचा, पिण्ड काँचा, फुरो मन्त्र ईश्वरो वाचा॥
