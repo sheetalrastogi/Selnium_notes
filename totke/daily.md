@@ -119,4 +119,9 @@ Take a coing + elaichi.  7 baar waarne ke baad.  go to any chauraaha and throw t
 
 ---
 
+19. Starting first tuesday of shukla paksha
+
+recite "Rrin mochak ka paath" daily  
+
+---
 
