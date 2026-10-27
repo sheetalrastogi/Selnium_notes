@@ -1,3 +1,14 @@
+
+
+
+----
+a.  3 mulank remidies for 2027
+
+moon walk (chandrama) starting 3rd day of shukla paksha.
+walk barefoot, cow ki seva
+
+---
+
 1. take tulsi ki jad waali mitti
 Add haldi + kumkum and make a goli.  keep this in your purse, tijori for riches
 
