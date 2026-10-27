@@ -1,5 +1,20 @@
+a. Remidy for karz mukti:
+5 kali mirch + 1 garlic kali in hand
+pray lakshmi to remove karz from your life.  
+mutthi band karke 7 baar waarna hai and throw outside home.
+
+---
+
+
+
+1. take a glass put some rice then add 4 coins and again layer of rice
+hide this glass for 7 days  (so no one see to it)
+
+after 7 days take out this glass and give rice for birds.
+
+---
 a. keep following under your pillow:
-1. long 2. kali mirch 3. haldi 4. green elaichi
+1. long (5 no.) 2. kali mirch(5 no) 3. haldi (1 pc) 4. green elaichi 5 no 
 
 ---
 a.  keep collecting notes with 456 consecutively anywhere in notes number and save in tijori
