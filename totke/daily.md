@@ -104,7 +104,9 @@ kamal gatta + makhaana + aamla + black singhaada (khoob saare) chadaayo
 next day early make a swastik (haldi se inside main door) and light a ghee ka diya
 
 ---
+17. bigde huye kaam banane ke liye
 
+Take a coing + elaichi.  7 baar waarne ke baad.  go to any chauraaha and throw this coin there.  comeback home without looking back.
 
 ---
 
