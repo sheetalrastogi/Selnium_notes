@@ -109,5 +109,14 @@ next day early make a swastik (haldi se inside main door) and light a ghee ka di
 Take a coing + elaichi.  7 baar waarne ke baad.  go to any chauraaha and throw this coin there.  comeback home without looking back.
 
 ---
+18.  shatru
+
+108 times recite​‌
+लोना चमारिन जगत की माई, जिसने अपनी शक्ति दिखाई,
+बांधूं भूत, बांधूं प्रेत, बांधूं दुष्ट का किया-कराया,
+ना बंधे तो गुरु गोरखनाथ की आन दुहाई,
+माता कामरूप कामाख्या माई की।
+
+---
 
 
