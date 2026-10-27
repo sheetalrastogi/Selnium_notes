@@ -11,16 +11,16 @@ on white squre paper make rahu yatra
 
 ---
 
-## 3.
+## 3. rahu
 for 4 wednesday afternoon
 take a water waala nariyal, wrap it with red chunari and 4 times waar kar behte huye paani mein baha dein
 praying rahu dev for ultimate money wish.
 
 ---
-## 4. a
+## 4. 7 time anti clockwise 7 days
 
-**take tea ki patti, 7 baar anti clock wise utaaran kar ke
+take tea ki patti, 7 baar anti clock wise utaaran kar ke
 Prey laxmi "remove your debts" and is patti ko behte huye water mein baha dene ka.
-**
+
 ---
 
