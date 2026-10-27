@@ -11,3 +11,9 @@ on white squre paper make rahu yatra
 
 ---
 
+## 3.
+for 4 wednesday afternoon
+take a water waala nariyal, wrap it with red chunari and 4 times waar kar behte huye paani mein baha dein
+praying rahu dev for ultimate money wish.
+
+---
