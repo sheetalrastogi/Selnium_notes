@@ -41,4 +41,24 @@ bring the second paan home and keep it in mandir.  Eat it in morning.
 
 ---
 
+7.  Tuesday / Saturday evening.
+
+take a katori full of salt.  take a scissor and make cut 11 times.  "pray to god to remove your all pareshaanion and ask for money."    throw this in toilet.
+
+---
+
+8. Pray rahu
+
+As soon as you get up, recite following mantra 108 times:
+Om simhika putraaya namaha.
+
+------
+
+9. agar kaam karne ka man nahi hota
+
+on anyday evening, take daal chini + google + gud and isko 7 baar utaara kar ke ghar ke bahar jala dein.
+
+---
+
+
 
