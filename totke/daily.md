@@ -86,6 +86,15 @@ take 4 match sticks, anti clock wise 7 times waar kar in 4 tillion ko jala kar d
 
 ----
 
-14. g
+14. shivling pur jal chadate samaya recite following names of maata:
+  a. Danteshwari maata
+  b. Preetgiri maata
+
+---
+
+15. a
+
+
+---
 
 
