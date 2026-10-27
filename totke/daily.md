@@ -17,3 +17,10 @@ take a water waala nariyal, wrap it with red chunari and 4 times waar kar behte 
 praying rahu dev for ultimate money wish.
 
 ---
+## 4. a
+
+**take tea ki patti, 7 baar anti clock wise utaaran kar ke
+Prey laxmi "remove your debts" and is patti ko behte huye water mein baha dene ka.
+**
+---
+
