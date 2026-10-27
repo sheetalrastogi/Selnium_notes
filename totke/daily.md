@@ -24,3 +24,10 @@ Prey laxmi "remove your debts" and is patti ko behte huye water mein baha dene k
 
 ---
 
+## 5.  on a note make following laxmi symbol and sprinkle cinnamom powder
+
+fold this towards your side and keep it in your purse.
+
+---
+
+
