@@ -1,4 +1,10 @@
 
+-----
+take chota pathar
+for 11 days keep it near dustbin.  before sleep take this pathar and hit dustbin 7 times and recite 7 times (each time hitting pathar to dustbin)  
+
+"Alakshmi mere ghar mein lakshmi ka vaas ho chuka hai aap mere ghar se jaayo."
+
 ----
 remedy for nazar / jadu / kiya karaya:
 
