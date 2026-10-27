@@ -60,5 +60,24 @@ on anyday evening, take daal chini + google + gud and isko 7 baar utaara kar ke 
 
 ---
 
+10.  early morning
+
+take bit water in your right hand, recite "he kundkeshwar mahadev mere 1 kasht door karein"
+1 => your kasht (gareebi, bimari)
+drink this water 
+
+---
+
+11. recite following baglamukhi mantra
+
+"Aim hreem Shreem bhagwati bagle me Shreeyam dehi dehi swaaha"
+
+---
+
+12.  saturday
+
+take gangajal + milk + water + kaale til chaadayo on shivling.
+
+---
 
 
