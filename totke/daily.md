@@ -74,9 +74,11 @@ drink this water
 
 ---
 
-12.  saturday
+12.  7 saturday
 
-take gangajal + milk + water + kaale til chaadayo on shivling.
+morning:  take gangajal + milk + water + kaale til chaadayo on shivling.
+
+shaam ko after evening lit a ghee ka diya.
 
 ---
 
