@@ -1,4 +1,9 @@
 
+----
+remedy for nazar / jadu / kiya karaya:
+
+7 long saturday / tuesday waale din 7 baar utaara kar isse jala do
+
 
 
 ----
