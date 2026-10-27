@@ -1,3 +1,5 @@
+a. keep following under your pillow:
+1. long 2. kali mirch 3. haldi 4. green elaichi
 
 ---
 a.  keep collecting notes with 456 consecutively anywhere in notes number and save in tijori
