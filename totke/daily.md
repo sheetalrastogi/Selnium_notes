@@ -1,3 +1,7 @@
+1. take tulsi ki jad waali mitti
+Add haldi + kumkum and make a goli.  keep this in your purse, tijori for riches
+
+---
 a. Remidy for karz mukti:
 5 kali mirch + 1 garlic kali in hand
 pray lakshmi to remove karz from your life.  
