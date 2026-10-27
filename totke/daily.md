@@ -92,7 +92,18 @@ take 4 match sticks, anti clock wise 7 times waar kar in 4 tillion ko jala kar d
 
 ---
 
-15. a
+15. Pareshaani se mukti ka upaay
+
+go to any fish market.  buy few fish (living) and make them in flowing water.
+
+---
+
+16.  On diwaali night
+kamal gatta + makhaana + aamla + black singhaada (khoob saare) chadaayo
+
+next day early make a swastik (haldi se inside main door) and light a ghee ka diya
+
+---
 
 
 ---
