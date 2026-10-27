@@ -80,4 +80,12 @@ take gangajal + milk + water + kaale til chaadayo on shivling.
 
 ---
 
+13.   3 days
+
+take 4 match sticks, anti clock wise 7 times waar kar in 4 tillion ko jala kar dustbin mein daalna hai.
+
+----
+
+14. g
+
 
