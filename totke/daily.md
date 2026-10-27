@@ -125,3 +125,11 @@ recite "Rrin mochak ka paath" daily
 
 ---
 
+20.  On tuesday night (7 consecutive tuesdays) take 2 green elaichi + 2 kaali mirch in right hand and make a mutthi.
+chant hanuman mantra "om shree hanumate namaha"
+
+ throw these elaichi & kaali mirch outside deserted location (without looking back)
+
+ ---
+
+ 
