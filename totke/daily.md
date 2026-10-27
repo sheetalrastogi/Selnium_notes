@@ -1,3 +1,26 @@
+a. Ameer banne ka mantra:
+
+ॐ नमः आदेश गुरु को।
+
+गणेश जटा-जूट,  
+ऋद्धि-सिद्धि के भंडार,  
+मेरे घर में आओ,  
+धन-धान्य की भरमार।
+
+आओ लक्ष्मी, बैठो लक्ष्मी,  
+सदा रहो मेरे साथ।
+
+मेरे कार्य सिद्ध हों,  
+मेरा ही हो हाथ।
+
+शब्द साचा, पिंड काचा,  
+फुरो मंत्र, ईश्वरो वाचा।
+
+---
+
+
+---
+
 1. Integer testing  
 open hands like ajaan and Recite 21 times following mantra to improve your chances of clearing interview.
 - haath pasaru, mukh malu, kachi machli khaau, 8 pahar 64 ghadi jag mohu ghar jaayoo
