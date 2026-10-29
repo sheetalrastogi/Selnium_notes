@@ -61,3 +61,24 @@ Liquid soap / skin cleansing preparations - 34013000
 | Traffic Cones | 39269099 | Plastic safety equipment |
 | Barricade Tape | 39191000 | Self-adhesive safety tape |
 | Reflective Tape | 39191000 | Retro-reflective tape |
+
+
+## Bathroom fittings
+
+| Product | HSN Code | Description |
+|----------|----------|-------------|
+| Towel Rack / Towel Rod | 8302 50 00 | Hat-racks, brackets and similar fixtures of base metal |
+| Towel Ring | 8302 50 00 | Base metal fittings and fixtures |
+| Robe Hook / Cloth Hook | 8302 50 00 | Hooks and similar fixtures |
+| Soap Dish Holder (Metal) | 8302 50 00 | Base metal bathroom fixtures |
+| Toothbrush Holder (Metal) | 8302 50 00 | Metal fittings |
+| Glass Shelf with Metal Brackets | 8302 50 00 | Wall-mounted fixtures |
+| Corner Shelf (Metal) | 8302 50 00 | Bathroom accessories |
+| Paper Holder / Tissue Holder | 8302 50 00 | Base metal fixtures |
+| Tumbler Holder | 8302 50 00 | Metal bathroom fittings |
+| Grab Bar / Safety Rail | 8302 41 10 | Mountings and fittings for buildings |
+| Shower Rod | 8302 41 10 | Building fittings |
+| Door Handle | 8302 41 10 | Handles of base metal |
+| Door Stopper | 8302 41 10 | Building fittings |
+| Bathroom Mirror Frame (Metal) | 8302 50 00 | Wall fixtures |
+| Shelf Brackets | 8302 42 00 | Mountings and fittings |
