@@ -31,3 +31,33 @@ Glycerin handmade soap  - 34011190
 Soap flakes, granules, powder - 34012000
 Liquid soap / skin cleansing preparations - 34013000
 ```
+
+## PPE (Personal protective elements)
+
+| Safety Product | HSN Code | Description |
+|----------------|----------|-------------|
+| Safety Helmets / Hard Hats | 65061010 | Industrial safety headgear |
+| Industrial Safety Footwear with Toe Cap | 64034000 | Protective footwear incorporating metal toe-cap |
+| Rubber Safety Boots | 64011000 / 64019200 | Waterproof protective footwear |
+| Safety Goggles | 90049090 | Protective eyewear |
+| Face Shields | 39269099 | Plastic protective face shields |
+| Ear Plugs | 39269099 | Hearing protection devices |
+| Ear Muffs | 39269099 | Hearing protection equipment |
+| Respirators / Dust Masks (Non-Medical) | 63079090 | Other made-up textile articles |
+| N95 / Industrial Respirators | 63079090 | Protective face masks |
+| High-Visibility Reflective Jackets | 61103000 / 62014090 | Safety apparel |
+| Protective Gloves (Cotton) | 61169200 | Knitted cotton gloves |
+| Protective Gloves (Rubber) | 40151900 | Rubber gloves |
+| Protective Gloves (Leather) | 42032910 | Industrial leather gloves |
+| Welding Gloves | 42032910 | Protective leather gloves |
+| Safety Harness (Fall Protection) | 63072090 | Safety belts and harnesses |
+| Lifelines and Lanyards | 56090090 | Safety rope assemblies |
+| Safety Nets | 56081900 | Industrial safety nets |
+| Fire Extinguishers | 84241000 | Fire extinguishing equipment |
+| Fire Blankets | 70199090 / 63079090 | Fire protection products |
+| Fire-Resistant Clothing | 62113390 | Protective garments |
+| Gas Leak Detectors | 90271000 | Gas analysis apparatus |
+| First Aid Kits | 30065000 | First-aid boxes and kits |
+| Traffic Cones | 39269099 | Plastic safety equipment |
+| Barricade Tape | 39191000 | Self-adhesive safety tape |
+| Reflective Tape | 39191000 | Retro-reflective tape |
