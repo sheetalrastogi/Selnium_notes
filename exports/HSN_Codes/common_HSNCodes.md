@@ -1,3 +1,5 @@
+## Crockery
+
 ```text
 Handmade pottery bowls → 69120010
 Pottery plates → 69120010
@@ -6,6 +8,7 @@ Stoneware dinner sets → 69120010
 ```
 For export of handcrafted clay pottery crockery (plates, bowls, cups, mugs, serving ware), HSN 69120010 is typically the most relevant code used by Indian exporters.
 
+## Textiles:
 
 ```text
 Bedsheets            63022100
@@ -15,4 +18,16 @@ Cushion covers       63049290
 Towels               63026000
 Curtains             63039100 / 63039200
 Quilts & Comforters  940490
+```
+
+## Soaps
+
+```text
+Soap in bars, cakes, molded shapes for toilet use - 34011190
+Ayurvedic handmade soap  - 34011190
+Herbal handmade soap  - 34011190
+Organic handmade soap  - 34011190
+Glycerin handmade soap  - 34011190
+Soap flakes, granules, powder - 34012000
+Liquid soap / skin cleansing preparations - 34013000
 ```
