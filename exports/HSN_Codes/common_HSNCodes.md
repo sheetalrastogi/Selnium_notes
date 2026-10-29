@@ -82,3 +82,22 @@ Liquid soap / skin cleansing preparations - 34013000
 | Door Stopper | 8302 41 10 | Building fittings |
 | Bathroom Mirror Frame (Metal) | 8302 50 00 | Wall fixtures |
 | Shelf Brackets | 8302 42 00 | Mountings and fittings |
+
+
+## Rugs and Carpets
+
+| Product | HSN Code |
+|----------|----------|
+| Hand-knotted Wool Carpet | 5701 10 00 |
+| Hand-knotted Silk Carpet | 5701 90 00 |
+| Handloom Cotton Dhurrie | 5702 39 10 |
+| Handloom Wool Dhurrie | 5702 39 20 |
+| Jute Rug / Jute Carpet | 5702 20 00 |
+| Tufted Wool Carpet | 5703 10 00 |
+| Tufted Nylon Carpet | 5703 20 00 |
+| Tufted Synthetic Carpet (PP/Polyester) | 5703 30 00 |
+| Coir Mat / Coir Floor Covering | 5702 20 00 or 5705 (depending on construction) |
+| Cotton Rug | 5702 or 5705 (depending on weaving/construction) |
+| Polyester Rug | 5703 30 00 or 5705 |
+| Bath Mat (Textile) | 5705 00 49 |
+| Handmade Decorative Rug | 5705 00 90 |
