@@ -470,3 +470,11 @@ United Arab Emirates (UAE)
 Corporate Gifting Market
 These markets increasingly demand sustainable, eco-friendly, and private-label stationery products, making them attractive destinations for Indian exporters.
 
+Home & Kitchen
+Bathroom Accessories
+Home Décor
+Rugs & Carpets
+Electronics Accessories
+Health & Wellness
+Pet Supplies
+Baby Products
